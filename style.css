@@ -22,38 +22,22 @@ div.top {
 div.main {
     position: relative;
     text-align: center;
-    width: 400px;
+    width: 640px;
     margin: 0px auto 0px auto;
     padding: 0px;
+}
+
+div.buttons {
     position: relative;
-}
-
-img.cover {
-    border: 1px solid rgba(56, 56, 53, 0.94);
-}
-
-div.facebook {
     text-align: center;
-    position: absolute;
-    overflow:hidden;
-    float: left;
-    bottom: 15px;
-    left: 10px;
-    z-index: 10;
-}
-
-div.bandcamp {
-    text-align: center;
-    position: absolute;
-    overflow:hidden;
-    bottom: 10px;
-    right: 10px;
-    z-index: 10;
+    vertical-align: middle;
+    margin: 10px auto 0px auto;
 }
 
 div.bottom {
+    position: relative;
     text-align: center;
-    width: 600px;
     margin: 0px auto 0px auto;
     padding: 10px;
+    width: 640px;
 }
