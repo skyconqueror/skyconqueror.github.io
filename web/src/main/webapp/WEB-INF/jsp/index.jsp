@@ -2,13 +2,13 @@
 <html>
 <head>
     <title>Skyconqueror - Heavy Metal</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/style.css">
+    <link rel="stylesheet" href="assets/font-awesome-4.1.0/css/font-awesome.min.css">
 </head>
 <body>
 
 <div class="top">
-    <img style="width: 640px;" src="banner.jpg" alt="Skyconqueror"/>
+    <img style="width: 640px;" src="assets/images/banner.jpg" alt="Skyconqueror"/>
 </div>
 
 <div class="left">
