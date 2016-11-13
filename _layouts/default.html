@@ -7,82 +7,38 @@
 
 <body>
 
+<div class="contain-to-grid sticky">
+    <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+            <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+                <li><a href="imprint.html" title="Imprint"><i class="fa fa-info"></i></a></li>
+                <li><a href="http://www.facebook.com/skyconqueror" title="Facebook"><i
+                        class="fa fa-facebook"></i></a></li>
+                <li><a href="https://twitter.com/Skyconqueror666" title="Twitter"><i class="fa fa-twitter"></i></a>
+                </li>
+                <li><a href="https://plus.google.com/102197588832277412650" rel="publisher" title="Google+"><i
+                        class="fa fa-google-plus"></i></a></li>
+            </ul>
+
+            <!-- Left Nav Section -->
+            <ul class="left">
+                <li><a href="biography.html">Bio</a></li>
+                <li><a href="audio.html">Audio</a></li>
+            </ul>
+        </section>
+    </nav>
+</div>
+
 {% include banner.html %}
 
 <div class="row">
-    <div class="columns small-9 medium-10 large-10">
+    <div class="columns small-12 medium-12 large-12">
         {{ content }}
-    </div>
-    
-    <div class="columns small-3 medium-2 large-2">
-        <div class="row">
-            <div class="columns large-3">
-                <i class="fa fa-play-circle" title="Play"></i>
-            </div>
-            <div class="columns large-9">
-                <ul class="no-bullet">
-                    <li><a href="https://play.spotify.com/album/7jjmiUY3hJk31lQ6Hvqdln" title="Spotify"><i
-                            class="fa fa-spotify"></i></a></li>
-                    <li><a href="http://www.deezer.com/album/8449839">Deezer</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="columns large-3">
-                <i class="fa fa-comments" title="Contact us"></i>
-            </div>
-            <div class="columns large-9">
-                <ul class="no-bullet">
-                    <li><a href="http://www.facebook.com/skyconqueror" title="Facebook"><i
-                            class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://twitter.com/Skyconqueror666" title="Twitter"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li><a href="https://plus.google.com/102197588832277412650" rel="publisher" title="Google+"><i
-                            class="fa fa-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="columns large-3">
-                <i class="fa fa-shopping-cart" title="Buy"></i>
-            </div>
-            <div class="columns large-9">
-                <ul class="no-bullet">
-                    <a href="http://www.amazon.de/Under-Pentagram-Skyconqueror/dp/B00KXJD3P2/ref=sr_1_1?s=music&ie=UTF8&qid=1404271496&sr=1-1"
-                    >Amazon</a>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="columns large-3">
-                <i class="fa fa-download" title="Download"></i>
-            </div>
-            <div class="columns large-9">
-                <ul class="no-bullet">
-                    <li><a href="https://itunes.apple.com/en/album/under-the-pentagram/id891718846">ITunes</a></li>
-                    <li><a href="http://www.amazon.com/Under-Pentagram-Skyconqueror/dp/B00LH9XAQO">Amazon</a></li>
-                    <li>
-                        <a href="https://play.google.com/store/music/album/Skyconqueror_Under_the_Pentagram?id=B2lbaevoc2ieremlcydapcxcwsu"
-                        >Google Play</a></li>
-                    <li><a href="http://www.cdbaby.com/cd/skyconqueror">CD Baby</a></li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            <div class="columns large-3">
-                <i class="fa fa-question"></i>
-            </div>
-            <div class="columns large-9">
-                <ul class="no-bullet">
-                    <li>
-                        <a href="https://www.facebook.com/skyconqueror/info?ref=hl" title="Imprint"><i class="fa fa-info"></i></a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="row">
-            {% include spotify_player.html %}
-        </div>
     </div>
 </div>
 
