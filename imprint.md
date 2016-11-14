@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: small_banner
 ---
 
 Imprint
@@ -14,6 +14,6 @@ Inquiries
 ---
 
 Dealer inquiries welcome!  
-Please contact our sales partner  
+Please contact our sales partner 
 <a href="http://www.oomoxx.com">oomoxx media, CD Produktion und DVD Produktion</a>.
 mail: <a href="mailto:vertrieb@oomoxx.de">vertrieb@oomoxx.de</a>

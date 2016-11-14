@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: small_banner
 ---
 
 Biography
