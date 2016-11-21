@@ -4,6 +4,10 @@ layout: small_banner
 
 {% include under_the_pentagram.md %}
 
-<br/><br/>
+___
 
 {% include hellstory.md %}
+
+___
+
+{% include silver_haze_rising.md %}
