@@ -1,5 +1,5 @@
 ---
-layout: small_banner
+layout: default
 ---
 
 Reviews "Under The Pentagram"
@@ -8,7 +8,7 @@ Reviews "Under The Pentagram"
 Breakout
 ---
 
-> ... Skyconqueror &uuml;berraschen jedoch auf ihrer CD mit dem sinnigen Titel 
+> ... Skyconqueror &uuml;berraschen jedoch auf ihrer CD mit dem sinnigen Titel
 "Under The Pentagram" mit lockerem, simplem und gut gelauntem old school Metal
 mit Charme ...
 
@@ -17,10 +17,10 @@ mit Charme ...
 brutalism.com
 ---
 
-> ...  If you love true classic European heavy metal, you will totally love 
+> ...  If you love true classic European heavy metal, you will totally love
 Skyconqueror's "Under The Pentagram". ...
 
-5/5  
+5/5
 [source](https://www.google.com/url?q=http://www.brutalism.com/content/skyconqueror-under-the-pentagram&sa=U&ved=0ahUKEwjn8sHQt6vQAhUHuBQKHYrGAWIQFggFMAA&client=internal-uds-cse&usg=AFQjCNEhZasWwQ6XJJe-XuUZJBOHSKi_uw)
 
 
@@ -28,14 +28,14 @@ Metal Hammer
 ---
 2015-01
 
-> ... Sehr h&ouml;renswert, zumal die betont erdige Produktion einen besonderen 
+> ... Sehr h&ouml;renswert, zumal die betont erdige Produktion einen besonderen
 Charme verspr&uuml;ht.
 
 Medienkonverter
 ---
 2014-10
 
-> ... Ganz und gar dringt durch jedes einzelne Lied eine gro&szlig;e Ladung Herzblut sowie eine tiefgreifende 
+> ... Ganz und gar dringt durch jedes einzelne Lied eine gro&szlig;e Ladung Herzblut sowie eine tiefgreifende
 Leidenschaft f&uuml;r den Metal, die bis in das Jahr 1997 zur&uuml;ckreicht!
 
 4/6
@@ -46,8 +46,8 @@ Metal-Event.de
 
 2014-10
 
-> ... Alles im allen erinnert mich UNDER THE PENTAGRAM an die Alben aus der Bl&uuml;tezeit des Heavy Metal in den fr&uuml;hen 
-> 80ern, was auch der authentischen Produktion zu verdanken ist. 
+> ... Alles im allen erinnert mich UNDER THE PENTAGRAM an die Alben aus der Bl&uuml;tezeit des Heavy Metal in den fr&uuml;hen
+> 80ern, was auch der authentischen Produktion zu verdanken ist.
 > Man sp&uuml;rt f&ouml;rmlich die Spielfreude der Band.
 
 7,5/10

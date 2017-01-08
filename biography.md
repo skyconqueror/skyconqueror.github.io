@@ -1,5 +1,5 @@
 ---
-layout: small_banner
+layout: default
 ---
 
 Biography
@@ -41,7 +41,7 @@ landscape of the wild Westfalian countryside.
 
 The CD has been released on July 2nd 2014, it was well received all over the world.
 
-In 2015 Niko Saloustros joined again as new bass player. Mirko switched to play lead and rhythm 
+In 2015 Niko Saloustros joined again as new bass player. Mirko switched to play lead and rhythm
 guitar. Since then the band has played several gigs all over germany.
 
 ...New songs are already in progress...

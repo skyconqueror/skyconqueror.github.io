@@ -2,28 +2,48 @@
 layout: default
 ---
 
-<div class="row">
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/demondawn.jpg" title="Demondawn"/>
-    </div>
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/mayhem.jpg" title="Mayhem"/>
-    </div>
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/hellduke.jpg" title="Hellduke"/>
-    </div>
-</div>
+<ul data-orbit>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-01.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-02.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-03.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-04.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-05.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+    <li>
+        <img src="{{ site.url }}/img/live/skyconqueror-06.jpg" alt="" />
+        <div class="orbit-caption"></div>
+    </li>
+</ul>
 
-<br/>
-
 <div class="row">
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/messiahofevil.jpg" title="Messiah Of Evil"/>
+    <div class="columns small-9 medium-9 large-9">
+        <ul>
+            {% for post in site.posts %}
+            <h2><a href="{{ post.url }}">{{ post.date }} - {{ post.title }}</a></h2>
+            {{ post.excerpt }}
+            {% endfor %}
+        </ul>
     </div>
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/cover.jpg" title="Under The Pentagram - Out Now"/>
-    </div>
-    <div class="columns small-4 medium-4 large-4 text-center">
-        <img src="img/nickgrave_2.jpg" title="Nick Grave"/>
+    <div class="columns small-3 medium-3 large-3">
+        <ul>
+            {% for post in site.gigs %}
+            <h2><a href="{{ gig.url }}">{{ gig.date }} - {{ gig.title }}</a></h2>
+            {{ gig.excerpt }}
+            {% endfor %}
+        </ul>
     </div>
 </div>

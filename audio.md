@@ -1,5 +1,5 @@
 ---
-layout: small_banner
+layout: default
 ---
 
 {% include under_the_pentagram.md %}

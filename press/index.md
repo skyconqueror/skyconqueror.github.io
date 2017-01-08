@@ -1,5 +1,5 @@
 ---
-layout: small_banner
+layout: default
 ---
 
 Press downloads
@@ -8,7 +8,7 @@ Press downloads
 Biography
 ---
 
-[german](biographie_deutsch.pdf)  
+[german](biographie_deutsch.pdf)
 [english](biographie_englisch.pdf)
 
 Logos

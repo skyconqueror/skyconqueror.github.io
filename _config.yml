@@ -1,3 +1,14 @@
 timezone: Europe/Berlin
 
-url: http://www.skyconqueror.de/preview 
+url: http://www.skyconqueror.de/preview
+
+collections:
+  gigs:
+    output: false
+
+defaults:
+  -
+    scope:
+      type: gigs
+    values:
+      layout: "default"
