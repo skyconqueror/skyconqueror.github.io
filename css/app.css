@@ -1,6 +1,6 @@
 body {
     background-color:#000000;
-    background-image: url("../img/site-background-dark.jpg");
+    background-image: url("{{ site.url }}/img/site-background-dark.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     background-attachment: fixed;
