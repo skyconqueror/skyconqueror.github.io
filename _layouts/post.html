@@ -9,6 +9,8 @@
         <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
         <img style="float: left; padding-right: 1em; padding-bottom: 1em; display: block; max-width:350px; max-height:500px; width: auto; height: auto;"
              src="{{ site.url }}/{{ page.image }}"/>
+        {{ page.date | date: "%Y-%m-%d" }}<br/>
+        <br/>
         {{ page.content }}
     </div>
 </div>
