@@ -39,8 +39,8 @@ layout: default
                 <img src="{{ site.url}}/{{ post.image }}"/>
             </div>
             <div class="columns small-9 medium-9 large-9">
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                {{ post.excerpt }} <a href="{{ post.url }}">&gt;&gt;&gt;</a>
+                <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
+                {{ post.excerpt }} <a href="{{site.baseurl}}{{ post.url }}">&gt;&gt;&gt;</a>
             </div>
         </div>
         <hr/>

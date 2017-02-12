@@ -20,9 +20,9 @@
                 <img src="{{ site.url }}/{{ post.image }}"/>
             </div>
             <div class="columns small-8 medium-8 large-8">
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h2>
                 {{ post.date | date: "%Y-%m-%d" }}<br/>
-                {{ post.excerpt }} <a href="{{ post.url }}">&gt;&gt;&gt;</a>
+                {{ post.content }} <a href="{{site.baseurl}}{{ post.url }}">&gt;&gt;&gt;</a>
             </div>
             <div class="columns small-12 medium-12 large-12">
                 <hr/>
