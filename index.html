@@ -4,46 +4,56 @@ layout: default
 
 <ul data-orbit>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-01.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-01.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-02.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-02.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-03.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-03.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-04.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-04.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-05.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-05.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
     <li>
-        <img src="{{ site.url }}/img/live/skyconqueror-06.jpg" alt="" />
+        <img src="{{ site.url }}/img/live/skyconqueror-06.jpg" alt=""/>
         <div class="orbit-caption"></div>
     </li>
 </ul>
 
 <div class="row">
-    <div class="columns small-9 medium-9 large-9">
-        <ul>
-            {% for post in site.posts %}
-            <h2><a href="{{ post.url }}">{{ post.date }} - {{ post.title }}</a></h2>
-            {{ post.excerpt }}
-            {% endfor %}
-        </ul>
+    <div class="columns small-8 medium-8 large-8">
+        <h1>LATEST NEWS</h1>
+        <hr/>
+        {% for post in site.posts limit:3 %}
+        <div class="row">
+            <div class="columns small-3 medium-3 large-3">
+                <img src="{{ site.url}}/{{ post.image }}"/>
+            </div>
+            <div class="columns small-9 medium-9 large-9">
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                {{ post.excerpt }} <a href="{{ post.url }}">&gt;&gt;&gt;</a>
+            </div>
+        </div>
+        <hr/>
+        {% endfor %}
     </div>
-    <div class="columns small-3 medium-3 large-3">
-        <ul>
-            {% for post in site.gigs %}
-            <h2><a href="{{ gig.url }}">{{ gig.date }} - {{ gig.title }}</a></h2>
-            {{ gig.excerpt }}
-            {% endfor %}
-        </ul>
+    <div class="columns small-4 medium-4 large-4">
+        <h1>LIVE</h1>
+        <hr/>
+        {% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
+        {% for gig in sorted limit:5 %}
+        {{ gig.gig_date | date: "%Y-%m-%d" }}:
+        {{ gig.title }}<br/>
+        <br/>
+        {% endfor %}
     </div>
 </div>

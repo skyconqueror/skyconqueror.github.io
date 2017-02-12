@@ -5,10 +5,12 @@ url: http://www.skyconqueror.de/preview
 collections:
   gigs:
     output: false
+    future: true
 
 defaults:
   -
     scope:
-      type: gigs
+      path: ""
+      type: "posts"
     values:
       layout: "default"
