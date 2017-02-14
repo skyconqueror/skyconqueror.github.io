@@ -6,7 +6,7 @@
 
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
-        <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+        <h2><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></h2>
         <img style="float: left; padding-right: 1em; padding-bottom: 1em; display: block; max-width:350px; max-height:500px; width: auto; height: auto;"
              src="{{ site.url }}/{{ page.image }}"/>
         {{ page.date | date: "%Y-%m-%d" }}<br/>
@@ -15,12 +15,12 @@
     </div>
     <div class="columns small-6 medium-6 large-6 text-center">
         {% if page.previous != nil %}
-        <a title="{{ page.previous.title }}" href="{{ page.previous.url }}">&lt;&lt;&lt;</a>
+        <a title="{{ page.previous.title }}" href="{{ site.url }}/{{ page.previous.url }}">&lt;&lt;&lt;</a>
         {% endif %}
     </div>
     <div class="columns small-6 medium-6 large-6 text-center">
         {% if page.next != nil %}
-        <a title="{{ page.next.title }}" href="{{ page.next.url }}">&gt;&gt;&gt;</a>
+        <a title="{{ page.next.title }}" href="{{ site.url }}/{{ page.next.url }}">&gt;&gt;&gt;</a>
         {% endif %}
     </div>
 </div>
