@@ -13,6 +13,16 @@
         <br/>
         {{ page.content }}
     </div>
+    <div class="columns small-6 medium-6 large-6 text-center">
+        {% if page.previous != nil %}
+        <a title="{{ page.previous.title }}" href="{{ page.previous.url }}">&lt;&lt;&lt;</a>
+        {% endif %}
+    </div>
+    <div class="columns small-6 medium-6 large-6 text-center">
+        {% if page.next != nil %}
+        <a title="{{ page.next.title }}" href="{{ page.next.url }}">&gt;&gt;&gt;</a>
+        {% endif %}
+    </div>
 </div>
 
 {% include footer.html %}
