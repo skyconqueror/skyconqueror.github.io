@@ -8,10 +8,10 @@ Hellduke hat vor Kurzem seinen Ausstieg aus der Band Skyconqueror
 verk&uuml;ndet. Damit sind wir jetzt wieder ein Four-Piece mit folgender
 Besetzung:
 
-* Mirko Mayhem an der Gitarre
-* Niko McPain am Bass
+* Mayhem an der Gitarre
+* Nick Grave am Bass
 * Messiah Of Evil an den Drums und
-* Daniel Demondawn an den Vocals.
+* Demondawn an den Vocals.
 
 Hellduke, der ja auch Gr&uuml;ndungsmitglied war, ist uns immer ein treuer
 Gef&auml;hrte auf dem Weg durch die Zeit gewesen, wir haben viele Auftritte
