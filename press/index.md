@@ -8,7 +8,6 @@ Press downloads
 Biography
 ---
 
-[german](biographie_deutsch.pdf)
 [english](biographie_englisch.pdf)
 
 Logos
@@ -40,11 +39,9 @@ Videos and sound samples
 Photos
 ---
 
-[![SKYCONQUEROR](SKYCONQUEROR.jpg)](SKYCONQUEROR.jpg)
-
 [![Demondawn](Demondawn1.jpg)](Demondawn1.jpg)
 
-[![Hellduke](Hellduke1.jpg)](Hellduke1.jpg)
+[![Nick Grave](NickGrave.jpg)](NickGrave.jpg)
 
 [![Mayhem](Mayhem1.jpg)](Mayhem1.jpg)
 

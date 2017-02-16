@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hellduke ist raus
+title: Hellduke ist nicht mehr an Bord
 image: img/hellduke.jpg
 ---
 
