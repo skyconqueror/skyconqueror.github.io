@@ -43,5 +43,6 @@ The CD has been released on July 2nd 2014, it was well received all over the wor
 
 In 2015 Nick Grave joined again as new bass player. Mayhem switched to play lead and rhythm
 guitar. Since then the band has played several gigs all over germany.
+Then, in 2017 Hellduke left the band. But the story continues!
 
 ...New songs are already in progress...

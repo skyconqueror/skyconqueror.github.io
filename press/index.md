@@ -8,7 +8,7 @@ Press downloads
 Biography
 ---
 
-[english](biographie_englisch.pdf)
+[english](biography.pdf)
 
 Logos
 ---
