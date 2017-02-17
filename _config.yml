@@ -6,6 +6,8 @@ collections:
   gigs:
     output: false
     future: true
+  galleries:
+    output: true
 
 defaults:
   -
