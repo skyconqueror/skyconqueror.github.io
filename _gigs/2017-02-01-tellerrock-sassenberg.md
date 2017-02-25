@@ -1,8 +1,9 @@
 ---
 collection: gigs
 layout: gig
-title: Tellerrock Sassenberg, with Coversutra
-gig_date: 2017-06-11
+title: Tellerrock Sassenberg
+gig_date: 2017-06-10
+image: :SITE_URL:/img/tellerrock-2017.jpg
 ---
 
 Tellerrock Sassenberg
