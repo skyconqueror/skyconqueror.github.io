@@ -7,7 +7,7 @@ Imprint
 
 Skyconqueror<br/>
 c/o Carsten Stiens<br/>
-H&ouml;rder-Bach-Allee 9<br/>
+Hörder-Bach-Allee 9<br/>
 44263 Dortmund<br/>
 
 Inquiries

@@ -7,7 +7,7 @@ Biography
 
 1997 – current
 
-Skyconqueror is a straight heavy metal band founded in the surroundings of M&uuml;nster (North
+Skyconqueror is a straight heavy metal band founded in the surroundings of Münster (North
 Western Germany) in early 1997 by Hellduke  and Messiah Of Evil . Shortly after Mayhem
 became part of the band as the bassist and Nick Grave followed as the lead
 singer.
@@ -27,7 +27,7 @@ The third demo CD „FORGED IN HELL“ – self-recorded in 2002 – contained s
 spirit of NWOBHM.
 
 Chris left the band at the end of 2004, and SKYCONQUEROR continued as an unholy four
-piece. At the end of 2006 two new songs were recorded at Luna Studio in L&uuml;dinghausen by
+piece. At the end of 2006 two new songs were recorded at Luna Studio in Lüdinghausen by
 Dieter Steffan for a compilation containing a variety of different music styles.
 In March 2008 the "HELLSTORY" CD was also recorded at Luna Studio, containing twelve
 songs from the last ten years. This lethal dose of metal emerged from the pits of hell in June
