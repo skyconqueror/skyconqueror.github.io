@@ -10,10 +10,14 @@
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <h1>LIVE</h1>
+    </div>
+</div>
+{% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
+{% for gig in sorted %}
+<div id="{{ gig.gig_date | date: '%Y-%m-%d' }}" class="row">
+    <div class="columns small-12 medium-12 large-12">
         <hr/>
     </div>
-    {% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
-    {% for gig in sorted %}
 </div>
 <div class="row">
     <div class="columns small-2 medium-2 large-2">
@@ -21,14 +25,17 @@
     </div>
     <div class="columns small-6 medium-6 large-6">
         <h4>{{ gig.title }}</h4>
+        {{ gig.content }}
     </div>
     <div class="columns small-4 medium-4 large-4">
         <h4><img src="{{ gig.image | replace: ':SITE_URL:', site.url }}"/></h4>
     </div>
+</div>
+{% endfor %}
+<div class="row">
     <div class="columns small-12 medium-12 large-12">
         <hr/>
     </div>
-    {% endfor %}
 </div>
 
 {% include footer.html %}
