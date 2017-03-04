@@ -39,10 +39,5 @@ Videos and sound samples
 Photos
 ---
 
-[![Demondawn](Demondawn1.jpg)](Demondawn1.jpg)
 
-[![Nick Grave](NickGrave.jpg)](NickGrave.jpg)
-
-[![Mayhem](Mayhem1.jpg)](Mayhem1.jpg)
-
-[![Messiah Of Evil](MessiahOfEvil1.jpg)](MessiahOfEvil1.jpg)
+[![Skyconqueror 2017]({{ site.url }}/img/skyconqueror-2017.jpg)]({{ site.url }}/img/skyconqueror-2017.jpg))
