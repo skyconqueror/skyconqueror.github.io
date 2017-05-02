@@ -1,7 +1,7 @@
 ---
 layout: default
 page_title: Imprint
-meta: imprint legal
+meta: imprint legal address dealer inquiries partner
 ---
 
 Imprint
