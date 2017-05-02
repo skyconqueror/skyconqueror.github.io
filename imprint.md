@@ -1,5 +1,7 @@
 ---
 layout: default
+page_title: Imprint
+meta: imprint legal
 ---
 
 Imprint

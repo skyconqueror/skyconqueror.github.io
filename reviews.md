@@ -1,5 +1,7 @@
 ---
 layout: default
+page_title: Reviews
+meta: album audio reviews critique criticism
 ---
 
 Reviews "Under The Pentagram"

@@ -1,5 +1,7 @@
 ---
 layout: default
+page_title: Press resources
+meta: press resources downloads logos biography pdf links videos sound samples
 ---
 
 Press downloads
