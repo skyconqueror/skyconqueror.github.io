@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tellerrock 2017
-img:
+img: img/tellerrock-2017.jpg
 ---
 
 Leute, das Tellerrock war großartig, ein super cooles Publikum, ein hervorragendes Catering durch die Gastgeber, und auch 
