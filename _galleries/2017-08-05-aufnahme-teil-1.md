@@ -33,8 +33,6 @@ images:
     caption: Knobs of death
   - image: img/2017-08-05-aufnahme-teil-1/P1070823.JPG
     caption: His highness, the JCM 800 itself
-  - image: img/2017-08-05-aufnahme-teil-1/P1070824.JPG
-    caption: Concentration!
   - image: img/2017-08-05-aufnahme-teil-1/P1070825.JPG
     caption: Messiah drums the shit out of his set!
 ---
