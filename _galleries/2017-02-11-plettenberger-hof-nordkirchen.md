@@ -26,3 +26,5 @@ images:
   - image: img/2017-02-11-nordkirchen/P2121515.JPG
     caption: Mayhem
 ---
+
+All pictures taken by Julia

@@ -37,7 +37,7 @@ meta: news navigation start landing homepage
 </div>
 
 <div class="row">
-    <div class="columns small-8 medium-8 large-8">
+    <div class="columns small-12 medium-8 large-8">
         <h1>LATEST NEWS</h1>
         <hr/>
         {% for post in site.posts limit:3 %}
@@ -54,11 +54,11 @@ meta: news navigation start landing homepage
         <hr/>
         {% endfor %}
     </div>
-    <div class="columns small-4 medium-4 large-4">
+    <div class="columns small-12 medium-4 large-4">
         <h1>LIVE</h1>
         <hr/>
         {% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
-        {% for gig in sorted limit:5 %}
+        {% for gig in sorted limit:3 %}
         <a href="live.html#{{ gig.gig_date | date: '%Y-%m-%d' }}">{{ gig.gig_date | date: "%Y-%m-%d" }}: {{ gig.title
             }}</a>
         <br/>

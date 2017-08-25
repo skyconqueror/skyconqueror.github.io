@@ -36,3 +36,5 @@ images:
   - image: img/2017-08-05-aufnahme-teil-1/P1070825.JPG
     caption: Messiah drums the shit out of his set!
 ---
+
+All images &copy; 2017 Skyconqueror
