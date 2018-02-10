@@ -29,6 +29,14 @@
 
     <script src="{{ site.url }}/js/vendor/modernizr.js"></script>
 
+    <script type="text/javascript">
+        function switchButtonEnabled(enable) {
+            var elements = document.querySelectorAll("input[type=image]");
+            for (var i = 0; i < elements.length; i++) {
+                elements[i].disabled = !enable;
+            }
+        }
+    </script>
 </head>
 
-<body>
+<body onload="javascript:switchButtonEnabled(false);">
