@@ -1,6 +1,7 @@
 timezone: Europe/Berlin
 
-url: http://www.skyconqueror.de
+url: https://www.skyconqueror.de
+enforce_ssl: www.skyconqueror.de
 
 collections:
   gigs:
