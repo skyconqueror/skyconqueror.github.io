@@ -1,7 +1,7 @@
 ---
 layout: default
 page_title: Imprint
-meta: imprint legal address dealer inquiries partner
+meta: imprint legal address dealer inquiries partner gdpr
 ---
 
 Imprint
@@ -12,17 +12,24 @@ c/o Carsten Stiens<br/>
 Hörder-Bach-Allee 9<br/>
 44263 Dortmund<br/>
 
-Orders
+Your data
 ---
 
-You agree to accept the following conditions if you order from this site:
+**About your data**
 
-* You can only order one item at once using any of the provided forms. This is a technical limitation on the site. If you want, you can just <a href="mailto:order@skyconqueror.de">send us a mail</a> to order greater quantities.
-* The purchased item will be sent to you via mail in a protective envelope. Please allow the delivery taking a couple of days.
-* All of the items have been manufactured in lots smaller than 500 pcs., so any item may suddenly be
-out of stock. In that case or in any other case where we can not proceed the order directly, we will contact you on short notice, and refund immediately if you wish to cancel the order.
+We strongly believe in visitor privacy. We do not store any data from you. We do not use any website analysis or tracking.
 
-*Please note folks, we do this on our own!*
+**About cookies on our site**
+
+Our DNS-Provider [Cloudflare](https://www.cloudflare.com/) uses one cookie (named \__cfduid) to enable https/tls data encryption over the wire. Enabling data encryption protects our visitors from being spied on during their browsing activities on our site. For further information please see the [Cloudflare support page](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) regarding this topic.
+
+**The source code of our site is hosted at GitHub**
+
+If you want to prove what we just said you can have a look at the [source code](https://github.com/skyconqueror/skyconqueror.github.io) and see for yourself.
+
+**Something wrong?**
+
+If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:order@skyconqueror.de).
 
 
 Reseller inquiries
