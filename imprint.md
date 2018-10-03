@@ -5,36 +5,39 @@ meta: imprint legal address dealer inquiries partner gdpr
 ---
 
 Imprint
----
+===
 
 Skyconqueror<br/>
 c/o Carsten Stiens<br/>
 Hörder-Bach-Allee 9<br/>
 44263 Dortmund<br/>
 
-Your data
+GDPR
+===
+
+About your data
 ---
+We strongly believe in visitor privacy. *We do not store any data from you! We do not use any website analysis or tracking!* If you decide to send us emails these are handled by public mail services like [Gmail](https://www.google.com/gmail/), [GMX](https://www.gmx.net/) or similar services. At any time you may request deletion of all your data, please [issue requests via email](deletemydata@skyconqueror.de) or towards the postal address provided above.
 
-**About your data**
+About cookies on our site
+---
+Our DNS-Provider [Cloudflare](https://www.cloudflare.com/) uses one cookie (named \__cfduid) to enable data encryption over the wire via [https/tls](https://en.wikipedia.org/wiki/HTTPS). Enabling data encryption protects you from being spied on during your browsing activities on our site. For further information please see the [Cloudflare support page](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) regarding this topic.
 
-We strongly believe in visitor privacy. We do not store any data from you. We do not use any website analysis or tracking.
 
-**About cookies on our site**
+Hosting of this site
+---
+Our site is hosted at [Github Pages](https://pages.github.com/).
 
-Our DNS-Provider [Cloudflare](https://www.cloudflare.com/) uses one cookie (named \__cfduid) to enable https/tls data encryption over the wire. Enabling data encryption protects our visitors from being spied on during their browsing activities on our site. For further information please see the [Cloudflare support page](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) regarding this topic.
+Source code of our site
+---
+You can have a look at this sites [source code](https://github.com/skyconqueror/skyconqueror.github.io).
 
-**The source code of our site is hosted at GitHub**
-
-If you want to prove what we just said you can have a look at the [source code](https://github.com/skyconqueror/skyconqueror.github.io) and see for yourself.
-
-**Something wrong?**
-
+Something wrong?
+---
 If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:order@skyconqueror.de).
 
-
 Reseller inquiries
----
-
+===
 Reseller inquiries welcome!<br/>
 Please contact our sales partner
 <a href="http://www.oomoxx.com">oomoxx media, CD Produktion und DVD Produktion</a>.
