@@ -1,0 +1,30 @@
+{% include head.html %}
+
+{% include navigation.html %}
+
+{% include banner_big_centered.html %}
+
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <h2><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></h2>
+
+        {% include page_navigation.html %}
+
+        <div class="row">
+            <div class="columns small-8 small-centered medium-8 medium-centered large-8 large-centered">
+                <ul data-orbit data-options="pause_on_hover: false; timer_speed: 5000;">
+                    {% for image in page.images %}
+                    <li>
+                        <img src="{{ site.url }}/{{ image.image }}" alt=""/>
+                        <div class="orbit-caption">{{ image.caption }}</div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+        {{ page.content }}
+    </div>
+</div>
+
+{% include footer.html %}

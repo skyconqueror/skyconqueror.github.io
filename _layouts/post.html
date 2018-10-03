@@ -1,0 +1,21 @@
+{% include head.html %}
+
+{% include navigation.html %}
+
+{% include banner_big_centered.html %}
+
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <h2><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></h2>
+
+        {% include page_navigation.html %}
+
+        <img style="float: left; padding-right: 2em; padding-bottom: 1em; display: block; max-width:350px; max-height:500px; width: auto; height: auto;"
+             src="{{ site.url }}/{{ page.image }}"/>
+
+        <br/>
+        {{ page.content }}
+    </div>
+</div>
+
+{% include footer.html %}

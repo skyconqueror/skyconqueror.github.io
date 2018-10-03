@@ -1,0 +1,38 @@
+---
+page_title: News
+meta: recent news headlines posts gossip
+---
+
+{% include head.html %}
+
+{% include navigation.html %}
+
+{% include banner_big_centered.html %}
+
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <h1>NEWS</h1>
+        <hr/>
+    </div>
+    <div class="columns small-12 medium-12 large-12">
+        {% assign sorted = (site.posts | sort: 'date') | reverse %}
+        {% for post in sorted %}
+        <div class="row">
+            <div class="columns small-4 medium-4 large-4">
+                <img src="{{ site.url }}/{{ post.image }}"/>
+            </div>
+            <div class="columns small-8 medium-8 large-8">
+                <h4><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h4>
+                {{ post.date | date: "%Y-%m-%d" }}<br/>
+                <br/>
+                {{ post.excerpt }} <a href="{{site.baseurl}}{{ post.url }}"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </div>
+            <div class="columns small-12 medium-12 large-12">
+                <hr/>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+{% include footer.html %}
