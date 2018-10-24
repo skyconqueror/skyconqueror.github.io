@@ -17,7 +17,12 @@ GDPR
 
 About your data
 ---
-We strongly believe in visitor privacy. *We do not store any data from you! We do not use any website analysis or tracking!* If you decide to send us emails these are handled by public mail services like [Gmail](https://www.google.com/gmail/), [GMX](https://www.gmx.net/) or similar services. At any time you may request deletion of all your data, please [issue requests via email](mailto:deletemydata@skyconqueror.de) or towards the postal address provided above.
+We strongly believe in visitor privacy. Therefore:
+* We do not store any data from you
+* We do not use any website analysis or tracking tools
+* Emails sent to us are handled by public mail services like [Gmail](https://www.google.com/gmail/), [GMX](https://www.gmx.net/) or similar services and stored there.
+
+At any time you may request deletion of all your data, please [issue requests via email](mailto:gdpr@skyconqueror.de) or towards the postal address provided above.
 
 About cookies on our site
 ---
@@ -34,7 +39,7 @@ You can have a look at this sites [source code](https://github.com/skyconqueror/
 
 Something wrong?
 ---
-If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:order@skyconqueror.de).
+If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:gdpr@skyconqueror.de).
 
 Reseller inquiries
 ===
