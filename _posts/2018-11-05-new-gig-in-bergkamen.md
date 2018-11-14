@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gig-Alarm! Skyconqueror @ Bergkamen Metalized Vol. 4
-image: img/live/skyconqueror-01.jpg
+image: img/bergkamen_metalized_4_webflyer.jpg
 ---
 
 Gig-Alarm! Wer Freitag, den 23. November noch nichts vor hat, sollte schleunigst ein Kreuz im Kalender machen, denn in Bergkamen im Yellowstone geht's auf dem **Bergkamen Metalized Vol. 4** an diesem Abend voll ab!
