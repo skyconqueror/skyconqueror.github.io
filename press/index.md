@@ -10,7 +10,8 @@ Press downloads
 Biography
 ---
 
-[english](biography.pdf)
+* [english](biography.pdf)
+* [german](biographie_deutsch.pdf)
 
 Logos
 ---
@@ -35,6 +36,5 @@ Songs hosted on [Soundcloud](https://soundcloud.com/skyconqueror/sets/new-album-
 
 Photos
 ---
-
 
 [![Skyconqueror 2017]({{ site.url }}/img/skyconqueror-2017.jpg)]({{ site.url }}/img/skyconqueror-2017.jpg))
