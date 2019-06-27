@@ -31,3 +31,5 @@ The following years the band gave several infernal gigs, took part in the movie 
 Hellduke left the band in August 2014, after which Nick Grave - who had been the singer in the early days - joined again as new bass player. Mayhem, who already had contributed a couple of guitar tracks to UNDER THE PENTAGRAM, switched to play lead and rhythm guitar.
 
 The band has moved to Dortmund Nordstadt to occupy a place for rehearsals there. At that place they are currently recording the successor to UNDER THE PENTAGRAM...
+
+-----

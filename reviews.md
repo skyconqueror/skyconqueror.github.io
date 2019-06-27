@@ -53,3 +53,5 @@ Metal-Event.de
 > Man spürt förmlich die Spielfreude der Band.
 
 7,5/10
+
+-----
