@@ -1,12 +1,14 @@
 ---
 collection: gigs
 layout: gig
-title: Metal Mania 2020 w/ Liquid Steel (AT), Invictus and Skyconqueror 
+title: CANCELED! Metal Mania 2020 w/ Liquid Steel (AT), Invictus and Skyconqueror
 gig_date: 2020-05-09
 image: :SITE_URL:/img/flyers/2020-metal-mania-munich.png
 ---
 
-Metal Mania - True Metal Evening
+CANCELED: Metal Mania - True Metal Evening
+
+Diese Veranstaltung wurde wegen der derzeitigen Lage abgesagt! Wir hoffen, dass die Veranstaltung nachgeholt wird.
 
 with
  * [Liquid Steel](https://www.liquidsteel.at/)
