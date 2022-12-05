@@ -26,7 +26,7 @@ c/o Carsten Stiens<br/>
 Overbeckstrasse 11<br/>
 44141 Dortmund<br/>
 </address>
-[info@skyconqueror](mailto:info@skyconqueror)
+[info@skyconqueror.de](mailto:info@skyconqueror.de)
 
 alleiniger Verantwortlicher für die Verarbeitung. Soweit im Zusammenhang mit unserer Facebook-Seite personenbezogene Daten verarbeitet werden und Meta Platforms Ireland allein über die Zwecke und Mittel der Verarbeitung entscheidet, ist
 
