@@ -4,14 +4,14 @@ layout: gig
 title: CELEBRATING 25 YEARS SKYCONQUEROR LIVE & EP RELEASE PARTY 
 gig_date: 2023-02-11
 
-image: :SITE_URL:/img/banners/banner-2022-11-28-v1.jpeg
+image: :SITE_URL:/img/banner-sputnik-v2.jpg
 ---
 
 with
 
 * [NIGHTFYRE](https://www.facebook.com/Nightfyreband/)
 * SKYCONQUEROR
-* TBA
+* [TORTURED SPIRIT](https://www.facebook.com/torturedspiritdoom/)
 
 at
 
