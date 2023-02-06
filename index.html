@@ -58,11 +58,18 @@ meta: news navigation start landing homepage
         <h1>LIVE</h1>
         <hr/>
         {% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
-        {% for gig in sorted limit:3 %}
-        <a href="live.html#{{ gig.gig_date | date: '%Y-%m-%d' }}">{{ gig.gig_date | date: "%Y-%m-%d" }}: {{ gig.title
-            }}</a>
-        <br/>
-        <br/>
+        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% for gig in sorted limit:10 %}
+            {% capture posttime %}{{gig.gig_date | date: '%s'}}{% endcapture %}
+            {% if nowunix < posttime %}
+            <a href="live.html#{{ gig.gig_date | date: '%Y-%m-%d' }}" style="font-weight: bolder;">{{ gig.gig_date | date: "%Y-%m-%d" }}: {{ gig.title
+                }}</a>
+            {% else %}
+            <a href="live.html#{{ gig.gig_date | date: '%Y-%m-%d' }}" style="font-style: italic;">{{ gig.gig_date | date: "%Y-%m-%d" }}: {{ gig.title
+                }}</a>
+            {% endif %}
+            <br/>
+            <br/>
         {% endfor %}
     </div>
 </div>
