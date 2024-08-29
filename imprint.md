@@ -32,8 +32,7 @@ We strongly believe in visitor privacy. Therefore:
 At any time you may request deletion of all your data, please [issue requests via email](mailto:gdpr@skyconqueror.de) or towards the postal address provided above.
 
 ## About cookies on our site
-Our DNS-Provider [Cloudflare](https://www.cloudflare.com/) uses one cookie (named \__cfduid) to enable data encryption over the wire via [https/tls](https://en.wikipedia.org/wiki/HTTPS). Enabling data encryption protects you from being spied on during your browsing activities on our site. For further information please see the [Cloudflare support page](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-) regarding this topic.
-
+This website uses 3rd party cookies only to embed and display video and audio content such as by YouTube or Bandcamp. No further cookies are used to track user behavior.
 
 ## Hosting of this site
 Our site is hosted at [Github Pages](https://pages.github.com/).
