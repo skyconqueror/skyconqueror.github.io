@@ -2,7 +2,7 @@
 
 [![.github/workflows/main.yml](https://github.com/skyconqueror/skyconqueror.github.io/actions/workflows/main.yml/badge.svg?event=workflow_run)](https://github.com/skyconqueror/skyconqueror.github.io/actions/workflows/main.yml)
 
-Sources for [www.skyconqueror.de](https://www.skyconqueror.de). The site is hosted on Github Pages, created with Jekyll and DNS with SSL is provided by Cloudflare.
+Sources for [www.skyconqueror.de](https://www.skyconqueror.de). The site is created with Jekyll, hosted via SSL on Github Pages and DNS is provided by Cloudflare.
 
 ## Local development
 
