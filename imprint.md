@@ -14,6 +14,8 @@ Overbeckstrasse 11<br/>
 44141 Dortmund<br/>
 </address>
 
+<a href="mailto:info@skyconqueror.de">Contact us per mail</a>
+
 
 ## See also/Siehe auch
 * [Datenschutzerklärung für Facebook-Fanpage](./facebook.html)
