@@ -3,15 +3,18 @@ collection: gigs
 layout: gig
 title: CELEBRATING 25 YEARS SKYCONQUEROR LIVE & EP RELEASE PARTY 
 gig_date: 2023-02-11
-
+featured: true
 image: :SITE_URL:/img/banner-sputnik-v2.jpg
+bands:
+- Nightfyre
+- Sewer Lads
 ---
 
 with
 
 * [NIGHTFYRE](https://www.facebook.com/Nightfyreband/)
 * SKYCONQUEROR
-* [TORTURED SPIRIT](https://www.facebook.com/torturedspiritdoom/)
+* ~~[TORTURED SPIRIT](https://www.facebook.com/torturedspiritdoom/)~~
 
 at
 
