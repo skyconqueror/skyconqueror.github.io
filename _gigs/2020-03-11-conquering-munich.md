@@ -8,7 +8,7 @@ image: :SITE_URL:/img/flyers/2020-metal-mania-munich.png
 
 CANCELLED: Metal Mania - True Metal Evening
 
-Diese Veranstaltung wurde wegen der derzeitigen Lage abgesagt! Wir hoffen, dass die Veranstaltung nachgeholt wird.
+Diese Veranstaltung wurde wegen Covid-19 abgesagt! Wir hoffen, dass die Veranstaltung nachgeholt wird.
 
 with
  * [Liquid Steel](https://www.liquidsteel.at/)

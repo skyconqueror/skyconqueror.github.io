@@ -4,6 +4,11 @@ layout: gig
 title: Bergkamen Metalized Vol. 4 @ Yellowstone Bergkamen
 gig_date: 2018-11-23
 image: :SITE_URL:/img/bergkamen_metalized_4_webflyer.jpg
+featured: true
+bands:
+- Corroding Sun
+- Saint Serpent
+- Paranight
 ---
 
 with
