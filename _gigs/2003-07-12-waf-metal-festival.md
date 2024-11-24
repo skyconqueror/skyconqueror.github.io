@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: WAF Metal Festival
+title: WMF, Warendorf
 gig_date: 2003-07-12
 bands:
 - Misery Speaks
@@ -8,6 +8,9 @@ bands:
 - Fallen Angels
 ---
 
-WMF - WAF Metal Festival	Open Air	Warendorf, Freckenhorst	
-mit Misery Speaks, Osyris, Fallen Angels u.a.	http://www.metalcrew.de/
+WMF - WAF Metal Festival Open Air
+
+in Warendorf, Freckenhorst	
+
+mit Misery Speaks, Osyris, Fallen Angels u.a.
 

@@ -9,12 +9,28 @@ meta: live gigs loud playing concerts in concert
         <h1>LIVE</h1>
     </div>
 </div>
+
+<div class="row">
+{% assign sorted = site.gigs | sort: 'gig_date' | reverse %}
+    <div class="columns small-12 medium-12 large-12">
+        ({{ sorted.size }} entries) 
+        {% for gig in sorted %}
+        <a href="#{{ gig.gig_date | date: '%Y-%m-%d' }}">{{ gig.title }}&nbsp;({{ gig.gig_date | date: '%Y' }})</a>{% if forloop.last == false %} • {% endif %}
+        {% endfor %}
+    </div>
+</div>
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <hr/>
+    </div>
+</div>
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <a href="https://www.songkick.com/artists/10124181-skyconqueror">Songkick</a>
     </div>
 </div>
-{% assign sorted = (site.gigs | sort: 'gig_date') | reverse %}
+
+{% assign sorted = site.gigs | sort: 'gig_date' | reverse %}
 {% for gig in sorted %}
 <div id="{{ gig.gig_date | date: '%Y-%m-%d' }}" class="row">
     <div class="columns small-12 medium-12 large-12">

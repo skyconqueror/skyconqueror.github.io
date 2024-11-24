@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Bands Battle 2002
+title: Bands Battle 2002, Stavenhagen
 gig_date: 2002-05-04
 bands:
 - Hypnos
@@ -13,4 +13,8 @@ bands:
 - Harmony Dies
 ---
 
-Bands Battle 2002	Festival	Stavenhagen bei Neubrandenburg	Hypnos, Goddess Of Desire, White Skull, Wizard, u.v.a.
+Bands Battle 2002	Festival
+
+in Stavenhagen, Neubrandenburg
+
+mit Hypnos, Goddess Of Desire, White Skull, Wizard, u.v.a.

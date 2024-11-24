@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: Spirit Of Metal VII 
+title: Spirit Of Metal VII, Lünen
 gig_date: 2024-10-05
 image: :SITE_URL:/img/spirit_of_metal_vii.jpg
 featured: true

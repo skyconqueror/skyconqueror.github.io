@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Rock Gegen Rechts
+title: Rock Gegen Rechts Open Air, Nordkirchen
 gig_date: 2002-05-25
 bands:
 - 27 Red
@@ -9,4 +9,6 @@ bands:
 - Medusa
 ---
 
-25.05.2002	Rock Gegen Rechts	Open Air	Sportplatz Nordkirchen	27 Red (Ska), Finn (Irish Folk Rock), Jupps Garage (Rock), Medusa (Rock)
+Rock Gegen Rechts Open Air
+am Sportplatz Nordkirchen
+mit 27 Red (Ska), Finn (Irish Folk Rock), Jupps Garage (Rock), Medusa (Rock)

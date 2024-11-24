@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Rock Gegen Gewalt Open Air
+title: Seasons Start - Party, Nordkirchen 
 gig_date: 2003-04-26
 ---
 

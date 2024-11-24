@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: Unholy Night II 
+title: Unholy Night II, Everswinkel
 gig_date: 2024-11-16
 image: :SITE_URL:/img/unholy_night_II.jpg
 bands:

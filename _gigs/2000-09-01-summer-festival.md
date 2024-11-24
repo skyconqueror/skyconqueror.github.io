@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Summer-Festival
+title: Summer-Festival, Nordkirchen
 gig_date: 2000-09-01
 bands:
 - General Biscuitz

@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: Nightfyre Release Show /w Metal Inquisitor & Skyconqueror
+title: Nightfyre Release Show, Münster
 gig_date: 2019-05-25
 image: :SITE_URL:/img/flyers/nightfyre-release-gig-sputnikhalle-2019-05.jpg
 featured: true

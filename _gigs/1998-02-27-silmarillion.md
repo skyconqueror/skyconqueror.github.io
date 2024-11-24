@@ -1,7 +1,7 @@
 ---
 collection: gigs
-title: Konzert Werne Silmarillion
+title: Silmarillion, Werne
 gig_date: 1998-02-27
 ---
 
-Konzert	Werne Silmarillion
+

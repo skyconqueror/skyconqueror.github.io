@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: Osnabrück, Bastard Club
+title: 20 years Whats Metal, Osnabrück
 gig_date: 2016-11-12
 featured: true
 image: :SITE_URL:/img/whats_metal_2016.jpg
@@ -12,7 +12,9 @@ bands:
 
 20 years Whats Metal
 
-with
+im Bastard Club
+
+mit
 
 * Embedded and
 * Savage Blood
