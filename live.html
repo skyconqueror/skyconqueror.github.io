@@ -11,11 +11,10 @@ meta: live gigs loud playing concerts in concert
 </div>
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
-        <a href="/live_all.html">All concerts</a>
+        <a href="/live_all.html">Visit the full list of appearances</a>
     </div>
 </div>
-{% assign sorted = (site.gigs | sort: 'gig_date' | where: "featured", "true"
-) | reverse %}
+{% assign sorted = site.gigs | sort: 'gig_date' | where: "featured", "true" | reverse %}
 {% for gig in sorted %}
 <div id="{{ gig.gig_date | date: '%Y-%m-%d' }}" class="row">
     <div class="columns small-12 medium-12 large-12">

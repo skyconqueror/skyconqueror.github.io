@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Konzert Bramsche
+title: Bramsche
 gig_date: 2004-07-10
 bands:
 - Branded Skin
@@ -8,4 +8,6 @@ bands:
 - Stygian
 ---
 
-Konzert	Bramsche bei Osnabrück	Branded Skin, Metalhead, Skyconqueror, Stygian u.a.	n/a	http://www.boygrouphunter.de
+in Bramsche bei Osnabrück
+
+mit Branded Skin, Metalhead, Skyconqueror, Stygian u.a.

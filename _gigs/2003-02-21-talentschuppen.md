@@ -1,6 +1,6 @@
 ---
 collection: gigs
-title: Konzert Talentschuppen
+title: Talentschuppen, Burgsteinfurt
 gig_date: 2003-02-21
 bands:
 - Savallion Dawn

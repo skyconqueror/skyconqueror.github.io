@@ -1,12 +1,12 @@
 ---
 collection: gigs
 layout: gig
-title: METAL MANIA - 15 years United Metalheadz @ BORN TO ROCK Munich
+title: METAL MANIA - 15 years United Metalheadz, München
 gig_date: 2019-03-23
 image: :SITE_URL:/img/flyers/15-years-metalheads.png
 ---
 
-# OUR SHOW WAS CANCELLED!
+**WE HAD TO CANCEL OUR APPEARANCE!**
 
 with
 * [Sacred Steel](http://www.sacredsteel.eu) (Power Metal)

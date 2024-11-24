@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: CELEBRATING 25 YEARS SKYCONQUEROR LIVE & EP RELEASE PARTY 
+title: 25 YEARS SKYCONQUEROR LIVE & EP RELEASE PARTY, Münster
 gig_date: 2023-02-11
 featured: true
 image: :SITE_URL:/img/banner-sputnik-v2.jpg
@@ -15,6 +15,7 @@ with
 * [NIGHTFYRE](https://www.facebook.com/Nightfyreband/)
 * SKYCONQUEROR
 * ~~[TORTURED SPIRIT](https://www.facebook.com/torturedspiritdoom/)~~
+* SEWER LADS
 
 at
 

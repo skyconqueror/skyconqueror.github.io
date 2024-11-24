@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: Nordkirchen, Plettenberger Hof
+title: 2nd BACK in TOWN, Nordkirchen
 gig_date: 2017-02-11
 image: :SITE_URL:/img/back_in_town_2017.jpg
 bands:
@@ -9,7 +9,7 @@ bands:
 - General Biscuitz
 ---
 
-2nd BACK in TOWN
+2nd BACK in TOWN, Plettenberger Hof, Nordkirchen
 
 with
 

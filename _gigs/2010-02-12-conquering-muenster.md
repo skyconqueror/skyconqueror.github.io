@@ -7,8 +7,6 @@ bands:
 - Terrorblade
 - Insane Mind
 ---
-
-Conquering Münster With Insane Terror
-
+with
 - Terrorblade
 - Insane Mind

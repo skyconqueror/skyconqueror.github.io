@@ -1,7 +1,5 @@
 ---
 collection: gigs
-title: Konzert Olfen Hügelhaus
+title: Hügelhaus, Olfen 
 gig_date: 1999-01-16
 ---
-
-Konzert	Olfen Hügelhaus

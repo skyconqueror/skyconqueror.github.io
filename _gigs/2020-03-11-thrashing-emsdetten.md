@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: CANCELLED! Thrash Or Be Thrashed - Taskforce Toxicator & Skyconqueror in Emsdetten 
+title: CANCELLED Thrash Or Be Thrashed, Emsdetten 
 gig_date: 2020-09-05
 
 image: :SITE_URL:/img/flyers/2020-thrash-or-be-thrashed.jpg

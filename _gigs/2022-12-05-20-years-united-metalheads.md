@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: 20 Years United - United Metalheadz HMC Munich Jubiläumsfeier
+title: 20 Years United - United Metalheadz HMC Munich Jubiläumsfeier, München
 gig_date: 2023-05-27
 featured: true
 image: :SITE_URL:/img/banners/20_years_united_metalheads.jpg
