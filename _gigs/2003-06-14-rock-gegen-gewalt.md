@@ -12,5 +12,5 @@ bands:
 - Grown Up
 ---
 
-Rock Gegen Gewalt	Open Air	Nordkirchen, Sportplatz (Skaterpark)	Jano Akono, Two Years Between, Medusa, Mr. Stringer, 08-15s, Finn, Grown Up	n/a
+Nordkirchen, Sportplatz (Skaterpark)
 

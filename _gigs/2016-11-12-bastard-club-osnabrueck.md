@@ -13,8 +13,3 @@ bands:
 20 years Whats Metal
 
 im Bastard Club
-
-mit
-
-* Embedded and
-* Savage Blood

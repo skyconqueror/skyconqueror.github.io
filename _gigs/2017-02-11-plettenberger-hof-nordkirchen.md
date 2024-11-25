@@ -10,8 +10,3 @@ bands:
 ---
 
 2nd BACK in TOWN, Plettenberger Hof, Nordkirchen
-
-with
-
-* Plattrock
-* General Biscuitz

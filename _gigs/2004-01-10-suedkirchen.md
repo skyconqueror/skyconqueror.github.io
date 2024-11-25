@@ -6,6 +6,3 @@ bands:
 - General Biscuitz
 - 27 Red
 ---
-
-mit General Biscuitz, 27 Red
-

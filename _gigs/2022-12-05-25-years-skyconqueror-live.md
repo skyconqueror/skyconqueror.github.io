@@ -10,12 +10,7 @@ bands:
 - Sewer Lads
 ---
 
-with
-
-* [NIGHTFYRE](https://www.facebook.com/Nightfyreband/)
-* SKYCONQUEROR
-* ~~[TORTURED SPIRIT](https://www.facebook.com/torturedspiritdoom/)~~
-* SEWER LADS
+Tortured Spirit sadly had to cancel their appearance.
 
 at
 

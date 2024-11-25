@@ -13,15 +13,6 @@ bands:
 - Disbelief
 ---
 
-with
-
-* Skyconqueror
-* Demons Dream (Heavy Metal / Heidenheim)
-* Red To Grey (Thrash Metal / München)
-* Liquid Steel (Heavy Metal / Innsbruck)
-* Bitterness (Thrash Metal / Ulm)
-* Disbelief (Death Metal / Darmstadt)
-
 at
 
 [Backstage München](https://www.facebook.com/profile.php?id=100066891692862) \

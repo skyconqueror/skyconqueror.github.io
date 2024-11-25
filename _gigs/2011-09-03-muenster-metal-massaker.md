@@ -15,24 +15,6 @@ bands:
 - Difused
 ---
 
-Münster Metal Massaker 2 mit:
-* „Warhammer“
-http://www.myspace.com/warhammerdeathmetal
-* „Burden of Grief“
-http://www.burdenofgrief.de
-* „Terrorblade“
-http://www.terrorblade.de
-* „Dead Head Down“
-http://www.deadheaddown.de
-* „Skyconqueror“
-http://www.myspace.com/skyconqueror
-* „Supreme Carnage“
-http://www.supremecarnage.de
-* „Victima“
-http://www.myspace.com/metalvictima
-* „Difused“
-www.difused.de
-
 After Show mit DJ Ralf (Götterdämmerung)
 
 Eintritt VVK: 8 ,- € - AK: 10 , - €
