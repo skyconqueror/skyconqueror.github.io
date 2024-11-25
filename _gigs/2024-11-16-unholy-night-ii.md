@@ -5,9 +5,9 @@ title: Unholy Night II, Everswinkel
 gig_date: 2024-11-16
 image: :SITE_URL:/img/unholy_night_II.jpg
 bands:
-- Halcyonic
-- The Wrong Rabbits
 - Bysmuth
+- The Wrong Rabbits
+- Halcyonic
 ---
 
 Headbangers!
@@ -19,9 +19,3 @@ https://bysmuth.com/ oder auf Anfrage bei Insta unter https://www.instagram.com/
 * Groethus 8 in Everswinkel
 * Einlass 17 Uhr
 * Beginn 18 Uhr
-
-Lineup:
-* Halcyonic , 
-* The Wrong Rabbits ,
-* Skyconqueror und
-* Bysmuth

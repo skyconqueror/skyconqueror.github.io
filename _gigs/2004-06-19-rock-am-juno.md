@@ -11,5 +11,3 @@ bands:
 ---
 
 Rock am JuNo Open-Air, Nordkirchen, am JuNo, Nähe Sportplatz
-
-mit Alternative Allstars, 27 Red, Grownup, Linus, Two Years Between u.a.

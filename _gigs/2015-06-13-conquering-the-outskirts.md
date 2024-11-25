@@ -12,8 +12,3 @@ bands:
 ---
 
 Alter Bahnhof Wolbeck
-
-with
-- Eradicator
-- Nightfyre
-- Fairytale

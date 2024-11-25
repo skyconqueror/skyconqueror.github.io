@@ -9,6 +9,4 @@ bands:
 - Medusa
 ---
 
-Rock Gegen Rechts Open Air
 am Sportplatz Nordkirchen
-mit 27 Red (Ska), Finn (Irish Folk Rock), Jupps Garage (Rock), Medusa (Rock)

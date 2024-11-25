@@ -10,11 +10,7 @@ bands:
 - Metal Inquisitor
 ---
 
-Release-Party des Debüt Albums "From Fortune to Ruin"
-
-with
- * [Nightfyre](https://facebook.com/Nightfyreband/)
- * [Metal Inquisitor](https://www.metalinquisitor.de/)
+Release-Party of the debut album "From Fortune to Ruin"
 
 at  
 [Sputnikhalle Münster](https://www.sputnikhalle.de/)  

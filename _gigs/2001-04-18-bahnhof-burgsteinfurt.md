@@ -6,6 +6,3 @@ bands:
 - Cuatro X
 - Somewhere In Nowhere
 ---
-
-im Bahnhof Burgsteinfurt
-mit Cuatro X, Somewhere In Nowhere

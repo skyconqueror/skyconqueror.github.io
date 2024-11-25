@@ -12,9 +12,4 @@ bands:
 - Delirious
 - Harmony Dies
 ---
-
-Bands Battle 2002	Festival
-
 in Stavenhagen, Neubrandenburg
-
-mit Hypnos, Goddess Of Desire, White Skull, Wizard, u.v.a.

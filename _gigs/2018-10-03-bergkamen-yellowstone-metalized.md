@@ -11,12 +11,6 @@ bands:
 - Paranight
 ---
 
-with
-
-* [Corroding Sun](http://www.corrodingsun.de/?fbclid=IwAR2-AXKWx8BAudkIJUnwSWNDfpC-2kqz4Nuh2nT9gQ5gPDvVaj5oFdecGlc) (Heavy Metal, Hamm/Soest)
-* [Saint Serpent](https://www.facebook.com/SaintSerpent/) (Stoner/Doom/Sludge Machine, Wesel)
-* [Paranight](http://paranight.de/) (Melodic Metal, Soest)
-
 at  
 [Yellowstome Bergkamen](http://www.soundclub-bergkamen.de/Soundclub/Willkommen.html)  
 Preinstraße 14  

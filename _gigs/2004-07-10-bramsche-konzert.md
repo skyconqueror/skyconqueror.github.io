@@ -8,6 +8,4 @@ bands:
 - Stygian
 ---
 
-in Bramsche bei Osnabrück
-
-mit Branded Skin, Metalhead, Skyconqueror, Stygian u.a.
+bei Osnabrück

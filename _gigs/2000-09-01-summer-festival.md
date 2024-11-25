@@ -10,4 +10,3 @@ bands:
 ---
 
 Summer-Festival in	Nordkirchen, Hof Overkamp
-General Biscuitz, Jano Akono, Seven Up, The 27 Red

@@ -7,6 +7,3 @@ bands:
 - Terrorblade
 - Insane Mind
 ---
-with
-- Terrorblade
-- Insane Mind
