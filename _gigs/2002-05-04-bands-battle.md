@@ -2,6 +2,7 @@
 collection: gigs
 title: Bands Battle 2002, Stavenhagen
 gig_date: 2002-05-04
+featured: true
 bands:
 - Hypnos
 - Goddess Of Desire

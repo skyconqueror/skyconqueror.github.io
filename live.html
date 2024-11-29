@@ -9,14 +9,28 @@ meta: live gigs loud playing concerts in concert
         <h1>LIVE</h1>
     </div>
 </div>
+
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
-        <a href="/live_all.html">Visit the full list of appearances</a>
+        <hr/>
     </div>
 </div>
 <div class="row">
+    <div id="index" class="columns small-12 medium-12 large-12">
+        {% assign bands = "" | split: "" %}
+        {% assign featuredGigs = site.gigs | where: "featured", "true" %}
+        {% for gig in featuredGigs %}
+            {% if gig.bands %}
+                {% assign bands = bands | concat: gig.bands %}
+            {% endif %}
+        {% endfor %}
+        {% assign bands = bands | sort | uniq %}
+        <h4>Bands we have played with so far</h4>
+    </div>
     <div class="columns small-12 medium-12 large-12">
-        <a href="https://www.songkick.com/artists/10124181-skyconqueror">Find us on Songkick</a>
+        {% for band in bands %}
+        <a href="https://www.google.com/search?q=&quot;{{ band }}&quot;+band">{{ band }}</a>{% if forloop.last == false %} • {% endif %}
+        {% endfor %}
     </div>
 </div>
 
@@ -48,6 +62,21 @@ meta: live gigs loud playing concerts in concert
     </div>
 </div>
 {% endfor %}
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <hr/>
+    </div>
+</div>
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <a href="/live_all.html">Visit the full list of appearances</a>
+    </div>
+</div>
+<div class="row">
+    <div class="columns small-12 medium-12 large-12">
+        <a href="https://www.songkick.com/artists/10124181-skyconqueror">Find us on Songkick</a>
+    </div>
+</div>
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <hr/>
