@@ -3,7 +3,6 @@ collection: gigs
 layout: gig
 title: 25 YEARS SKYCONQUEROR LIVE & EP RELEASE PARTY, Münster
 gig_date: 2023-02-11
-featured: true
 image: :SITE_URL:/img/banner-sputnik-v2.jpg
 bands:
 - Nightfyre

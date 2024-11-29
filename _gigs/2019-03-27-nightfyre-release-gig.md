@@ -6,8 +6,8 @@ gig_date: 2019-05-25
 image: :SITE_URL:/img/flyers/nightfyre-release-gig-sputnikhalle-2019-05.jpg
 featured: true
 bands:
-- Nightfyre
 - Metal Inquisitor
+- Nightfyre
 ---
 
 Release-Party of the debut album "From Fortune to Ruin"

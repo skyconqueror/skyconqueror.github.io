@@ -6,11 +6,11 @@ gig_date: 2023-05-27
 featured: true
 image: :SITE_URL:/img/banners/20_years_united_metalheads.jpg
 bands:
-- Demons Dream
-- Red To Grey
-- Liquid Steel
-- Bitterness
 - Disbelief
+- Bitterness
+- Liquid Steel
+- Red To Grey
+- Demons Dream
 ---
 
 at

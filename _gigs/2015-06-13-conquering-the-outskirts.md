@@ -7,8 +7,8 @@ image: :SITE_URL:/img/conquering_the_outskirts.jpg
 featured: true
 bands:
 - Eradicator
-- Nightfyre
 - Fairytale
+- Nightfyre
 ---
 
 Alter Bahnhof Wolbeck

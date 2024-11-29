@@ -13,4 +13,8 @@ bands:
 - Greydon Fields 
 - Spin My Fate 
 - Saphenous
+- Black Messiah
+- HateDotCom
+- Final Depravity
+- Terrorblade
 ---

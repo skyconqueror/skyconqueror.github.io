@@ -49,12 +49,12 @@ meta: live gigs loud playing concerts in concert
     <div id="index" class="columns small-12 medium-12 large-12">
         {% assign bands = "" | split: "" %}
         {% for gig in site.gigs %}
-        {% if gig.bands %}
-        {% assign bands = bands | concat: gig.bands %}
-        {% endif %}
+            {% if gig.bands %}
+                {% assign bands = bands | concat: gig.bands %}
+            {% endif %}
         {% endfor %}
         {% assign bands = bands | sort | uniq %}
-        <h4>Bands we have played with so far ({{ bands.size }} entries)</h4>
+        <h4>All bands we have played with so far ({{ bands.size }} entries)</h4>
     </div>
     <div class="columns small-12 medium-12 large-12">
         {% for band in bands %}
