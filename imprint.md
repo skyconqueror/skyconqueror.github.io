@@ -10,8 +10,8 @@ meta: imprint legal address dealer inquiries partner gdpr
 <address>
 Skyconqueror GbR<br/>
 c/o Carsten Stiens<br/>
-Overbeckstrasse 11<br/>
-44141 Dortmund<br/>
+Theodor-Storm-Straße 1a<br/>
+59348 Lüdinghausen<br/>
 </address>
 
 <a href="mailto:info@skyconqueror.de">Contact us per mail</a>
@@ -31,7 +31,7 @@ We strongly believe in visitor privacy. Therefore:
 * We do not use any website analysis or tracking tools
 * Emails sent to us are handled by public mail services like [Gmail](https://www.google.com/gmail/), [GMX](https://www.gmx.net/) or similar services and stored there.
 
-At any time you may request deletion of all your data, please [issue requests via email](mailto:gdpr@skyconqueror.de) or towards the postal address provided above.
+At any time you may request deletion of all your data - please [issue requests via email](mailto:gdpr@skyconqueror.de) or towards the postal address provided above.
 
 ## About cookies on our site
 This website uses 3rd party cookies only to embed and display video and audio content such as by YouTube or Bandcamp. No further cookies are used to track user behavior.
@@ -40,7 +40,7 @@ This website uses 3rd party cookies only to embed and display video and audio co
 Our site is hosted at [Github Pages](https://pages.github.com/).
 
 ## Source code of our site
-You can have a look at this sites [source code](https://github.com/skyconqueror/skyconqueror.github.io).
+You can have a look at the [source code](https://github.com/skyconqueror/skyconqueror.github.io).
 
 ## Something wrong?
 If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:gdpr@skyconqueror.de).
