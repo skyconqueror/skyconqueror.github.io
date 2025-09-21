@@ -7,7 +7,7 @@ meta: live gigs loud playing concerts in concert
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <h1>LIVE</h1>
-        <h4><a href="#index">Index</a></h4>
+        <h4><a href="#index">Stats</a></h4>
     </div>
 </div>
 
@@ -39,22 +39,28 @@ meta: live gigs loud playing concerts in concert
     </div>
 </div>
 {% endfor %}
+
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <hr/>
     </div>
 </div>
 
+{% assign bands = "" | split: "" %}
+{% assign gigs = site.gigs %}
+{% for gig in gigs %}
+    {% if gig.bands %}
+        {% assign bands = bands | concat: gig.bands %}
+    {% endif %}
+{% endfor %}
+{% assign bands = bands | sort | uniq %}
+
 <div class="row">
     <div id="index" class="columns small-12 medium-12 large-12">
-        {% assign bands = "" | split: "" %}
-        {% for gig in site.gigs %}
-            {% if gig.bands %}
-                {% assign bands = bands | concat: gig.bands %}
-            {% endif %}
-        {% endfor %}
-        {% assign bands = bands | sort | uniq %}
-        <h4>All bands we have played with so far ({{ bands.size }} entries)</h4>
+        <h3>We performed on {{ sorted.size }} staged and shared them with {{ bands.size }} bands:</h3>
+    </div>
+    <div id="bands" class="columns small-12 medium-12 large-12">
+        <h3>Bands</h3>
     </div>
     <div class="columns small-12 medium-12 large-12">
         {% for band in bands %}
@@ -62,15 +68,10 @@ meta: live gigs loud playing concerts in concert
         {% endfor %}
     </div>
 </div>
-<div class="row">
-    <div class="columns small-12 medium-12 large-12">
-        <hr/>
-    </div>
-</div>
-<div class="row">
+<div class="row" id="index">
     {% assign sorted = site.gigs | sort: 'gig_date' | reverse %}
-    <div class="columns small-12 medium-12 large-12">
-        <h4>Gigs we have done ({{ sorted.size }} entries)</h4>
+    <div id="gig-index" class="columns small-12 medium-12 large-12">
+        <h4>Live gigs</h4>
     </div>
     <div class="columns small-12 medium-12 large-12">
         {% for gig in sorted %}

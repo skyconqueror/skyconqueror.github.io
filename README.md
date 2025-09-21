@@ -6,17 +6,19 @@ Sources for [www.skyconqueror.de](https://www.skyconqueror.de). The site is crea
 
 ## Local development
 
+### Requirements
+
+* [rbenv](https://github.com/rbenv/rbenv#installation)
+
 ### Install requirements
 
 ```bash
-$ rbenv install 3.1.2
-$ rbenv local 3.1.2
-$ bundle install
+$ make install
 ```
 
 ### Start local server
 
 ```bash
-$ bundle exec jekyll serve
+$ make serve
 ```
 
