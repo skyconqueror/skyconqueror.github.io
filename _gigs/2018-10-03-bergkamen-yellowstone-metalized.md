@@ -12,7 +12,7 @@ bands:
 ---
 
 at  
-[Yellowstome Bergkamen](http://www.soundclub-bergkamen.de/Soundclub/Willkommen.html)  
+Yellowstome Bergkamen  
 Preinstraße 14  
 59192 Bergkamen
 
