@@ -6,16 +6,7 @@ meta: imprint legal address dealer inquiries partner gdpr
 
 # Imprint
 
-
-<address>
-Skyconqueror GbR<br/>
-c/o Carsten Stiens<br/>
-Theodor-Storm-Straße 1a<br/>
-59348 Lüdinghausen<br/>
-</address>
-
-<a href="mailto:info@skyconqueror.de">Contact us per mail</a>
-
+{% include address.html %}
 
 ## See also/Siehe auch
 * [Datenschutzerklärung für Facebook-Fanpage](./facebook.html)
