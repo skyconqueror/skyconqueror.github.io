@@ -4,7 +4,7 @@ layout: gig
 title: Münster Metal Massaker II
 gig_date: 2011-09-03
 featured: true
-image: :SITE_URL:/img/muenster_metal_massaker_ii.jpg
+image: :SITE_URL:/img/flyers/muenster_metal_massaker_ii.jpg
 bands:
 - Warhammer
 - Burden of Grief

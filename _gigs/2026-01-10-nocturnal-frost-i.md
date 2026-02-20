@@ -4,7 +4,7 @@ layout: gig
 title: Nocturnal Frost Vol. 1, Bahnhof Wolbeck, Munster
 featured: true
 gig_date: 2026-01-10
-image: :SITE_URL:/img/nocturnal-frost-vol-1.png
+image: :SITE_URL:/img/flyers/nocturnal-frost-vol-1.png
 bands:
 - Beast
 - Necroknight

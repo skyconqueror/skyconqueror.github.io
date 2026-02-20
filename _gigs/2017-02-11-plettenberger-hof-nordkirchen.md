@@ -3,7 +3,7 @@ collection: gigs
 layout: gig
 title: 2nd BACK in TOWN, Nordkirchen
 gig_date: 2017-02-11
-image: :SITE_URL:/img/back_in_town_2017.jpg
+image: :SITE_URL:/img/flyers/back_in_town_2017.jpg
 bands:
 - Plattrock
 - General Biscuitz
