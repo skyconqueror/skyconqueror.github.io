@@ -5,7 +5,7 @@ body {
     background-color:#000000;
     background-image: url("{{ site.url }}/img/background-decoration.png");
     background-repeat: repeat-y;
-    background-position: center top;
+    background-position: center 45px;
     background-attachment: scroll;
     background-size: initial;
     color: #D0D0D0;
