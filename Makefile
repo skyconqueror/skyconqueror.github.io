@@ -4,3 +4,5 @@ serve:
 	bundle exec jekyll serve
 linkcheck:
 	linkcheck :4000
+print-dead-images:
+	./hack/print-dead-images.sh

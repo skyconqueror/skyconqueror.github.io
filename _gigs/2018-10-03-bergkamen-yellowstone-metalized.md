@@ -3,7 +3,7 @@ collection: gigs
 layout: gig
 title: Bergkamen Metalized Vol. 4, Bergkamen
 gig_date: 2018-11-23
-image: :SITE_URL:/img/bergkamen_metalized_4_webflyer.jpg
+image: :SITE_URL:/img/flyers/bergkamen_metalized_4_webflyer.jpg
 featured: true
 bands:
 - Corroding Sun
