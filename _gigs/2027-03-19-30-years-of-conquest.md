@@ -4,7 +4,7 @@ layout: gig
 title: 30 Years of Conquest – 30th Anniversary Show, Münster
 featured: true
 gig_date: 2027-03-19
-image: :SITE_URL:/img/flyers/skyconqueror-30-years-of-conquest.jpeg
+image: :SITE_URL:/img/flyers/SKYCONQUEROR_30_Years_Poster_highres-complete.png
 bands:
 - Skyconqueror
 - Wolfskull
@@ -25,6 +25,6 @@ Tickets:
 • Online: https://skyconqueror.bandcamp.com  
 • PayPal/Mail: tickets@skyconqueror.de
 
-More details, flyer and updates: [/30-years](/30-years)
+More details, flyer and updates: [30-years](/30-years)
 
-Event conditions: [/legal/events](/legal/events)
+Conditions: [Event conditions](/legal/events)
