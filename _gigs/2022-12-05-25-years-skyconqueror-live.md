@@ -23,5 +23,5 @@ Doors open:  18:30 CET
 Presale €12,-, at venue €14,- . \
 Presale either via PayPal at tickets@skyconqueror.de or via Bandcamp
 
--> [Event conditions](./event-conditions.html) \
+-> [Event conditions](/legal/events) \
 -> [Facebook Event](https://www.facebook.com/events/815925506153016)

@@ -9,8 +9,8 @@ meta: imprint legal address dealer inquiries partner gdpr
 {% include address.html %}
 
 ## See also/Siehe auch
-* [Datenschutzerklärung für Facebook-Fanpage](./facebook.html)
-* [Veranstaltungsbedingungen/Event conditions](./event-conditions.html)
+* [Datenschutzerklärung für Facebook-Fanpage](/facebook)
+* [Veranstaltungsbedingungen/Event conditions](/legal/events)
 
 # GDPR
 
