@@ -10,7 +10,7 @@ bands:
 - Nightfyre
 ---
 
-Release-Party of the debut album "From Fortune to Ruin"
+Release party for the debut album "From Fortune to Ruin"
 
 at  
 [Sputnikhalle Münster](https://www.sputnikhalle.de/)  

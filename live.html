@@ -7,6 +7,7 @@ meta: live gigs loud playing concerts in concert
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <h1>LIVE</h1>
+        <p>Past entries are archived announcements and may retain future-tense wording from when they were published.</p>
         <div class="row">
             <div class="columns small-12 medium-12 large-12">
                 <a href="https://www.songkick.com/artists/10124181-skyconqueror">Find us on Songkick</a>
@@ -30,7 +31,7 @@ meta: live gigs loud playing concerts in concert
         <h4>{{ gig.title }}</h4>
         {{ gig.content }}
         {% if gig.bands %}
-        Line Up:
+        Line-up:
         <ul>
             {% for band in gig.bands %}
             <li><a href="https://www.google.com/search?q=&quot;{{ band }}&quot;+band">{{ band }}</a></li>

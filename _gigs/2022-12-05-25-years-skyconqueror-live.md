@@ -20,7 +20,7 @@ Germany
 
 Doors open:  18:30 CET
 
-Presale €12,-, at venue €14,- . \
+Tickets: €12 in advance, €14 at the door. \
 Presale either via PayPal at tickets@skyconqueror.de or via Bandcamp
 
 -> [Event conditions](/legal/events) \

@@ -20,18 +20,13 @@ Wenn Sie über unsere Facebook-Seite personenbezogene Daten an uns übermitteln 
 
 **Kontaktdaten der Verantwortlichen**
 
-<address>
-<b>Skyconqueror GbR</b><br/>
-c/o Carsten Stiens<br/>
-Overbeckstrasse 11<br/>
-44141 Dortmund<br/>
-</address>
+{% include postal-address.html %}
 [info@skyconqueror.de](mailto:info@skyconqueror.de)
 
 alleiniger Verantwortlicher für die Verarbeitung. Soweit im Zusammenhang mit unserer Facebook-Seite personenbezogene Daten verarbeitet werden und Meta Platforms Ireland allein über die Zwecke und Mittel der Verarbeitung entscheidet, ist
 
 <address>
-<b>Meta Platforms Ireland Limted (im Folgenden auch „Meta Platforms Ireland“ genannt)</b><br/>
+<b>Meta Platforms Ireland Limited (im Folgenden auch „Meta Platforms Ireland“ genannt)</b><br/>
 4 Grand Canal Square<br/>
 Grand Canal Harbour<br/>
 Dublin 2<br/>
@@ -55,13 +50,13 @@ Den Datenschutzbeauftragten von Meta Platforms Ireland können Sie über das auf
 
 ### 3.1. Informationen zur Datenverarbeitung durch Meta Platforms Ireland
 
-Die Datenrichtlinie von Meta Platforms Ireland nennt die Kategorien personenbezogener Daten, die bei der Nutzung von Facebook-Diensten verarbeitet werden (siehe I.), beschreibt in allgemeiner Form die Zwecke, zu denen diese Daten verwendet werden (siehe II.) und nennt die Kategorien von Empfängern, denen diese Daten zugänglich gemacht werden können (siehe III., IV. und VIII.). Unter dem angegebenen Link zur Datenrichtlinie finden Sie auch Informationen über die Rechtsgrundlage der Verarbeitung dieser Daten (siehe V.) und Informationen dazu, wie Sie eine erfolgte Einwilligung bezüglich der Verarbeitung personenbezogener Daten widerrufen können. Weitere Informationen zur jeweiligen Rechtsgrundlage finden Sie [hier](https://www.facebook.com/about/privacy/legal_bases). In der Datenrichtlinie finden Sie Informationen darüber, wie Sie Ihre Rechte auf Auskunft, Berichtigung, Übertragbarkeit und Löschung gegenüber Meta Platforms Ireland ausüben können (siehe VI.). Unter diesem Punkt finden Sie auch Informationen über Ihr Widerspruchsrecht gegen bestimmte Verarbeitungen personenbezogener Daten. Nähere Informationen zum Widerspruchsrecht finden Sie in diesem [Hilfe-Artikel](https://www.facebook.com/help/2069235856423257). In der Datenrichtlinie finden Sie auch Informationen über die Dauer, für die personenbezogene Daten gespeichert werden und Informationen über die Kriterien bezüglich der Festlegung dieser Dauer (siehe VII.).
+Die [Datenschutzrichtlinie von Meta](https://www.facebook.com/privacy/policy/?locale=de_DE) nennt die Kategorien personenbezogener Daten, die bei der Nutzung von Facebook-Diensten verarbeitet werden, beschreibt in allgemeiner Form die Zwecke, zu denen diese Daten verwendet werden, und nennt die Kategorien von Empfängern, denen diese Daten zugänglich gemacht werden können. Unter dem angegebenen Link zur Datenrichtlinie finden Sie auch Informationen über die Rechtsgrundlage der Verarbeitung dieser Daten und Informationen dazu, wie Sie eine erfolgte Einwilligung bezüglich der Verarbeitung personenbezogener Daten widerrufen können. Weitere Informationen zur jeweiligen Rechtsgrundlage finden Sie [hier](https://www.facebook.com/about/privacy/legal_bases). In der Datenrichtlinie finden Sie Informationen darüber, wie Sie Ihre Rechte auf Auskunft, Berichtigung, Übertragbarkeit und Löschung gegenüber Meta Platforms Ireland ausüben können. In der Datenschutzrichtlinie finden Sie auch Informationen über Ihr Widerspruchsrecht gegen bestimmte Verarbeitungen personenbezogener Daten. Nähere Informationen zum Widerspruchsrecht finden Sie in diesem [Hilfe-Artikel](https://www.facebook.com/help/2069235856423257). In der Datenrichtlinie finden Sie auch Informationen über die Dauer, für die personenbezogene Daten gespeichert werden, und Informationen über die Kriterien bezüglich der Festlegung dieser Dauer.
 
 ### 3.2. Informationen zur Verwendung von Cookies durch Meta Platforms Ireland
 
-Wenn Sie unsere Facebook-Seite besuchen und ihr Browser die Speicherung von Cookies erlaubt, speichert Meta Platforms Ireland Informationen in Form von kleinen Textdateien im Speicher Ihres Browsers (im Folgenden "Cookies”) und kann auf diese Informationen beim Besuch der Plattform Facebook oder einer Webseite, die Facebook-Technologien einbindet, zugreifen. Nähere Informationen zum Zweck der eingesetzten Cookies, zur Einbindung dieser Cookies durch andere Webseiten und zu Ihren diesbezüglichen Kontrollmöglichkeiten finden Sie in der [Cookie-Richtlinie](https://www.facebook.com/policy/cookies/printable) von Facebook Ireland. Eine detaillierte Übersicht, der durch Meta Platforms Ireland verwendeten Cookies ist in der verlinkten Cookie-Richtlinie durch einen Klick auf den dortigen Link "Cookies” unter dem Punkt "Warum verwenden wir Cookies?” verfügbar.
+Wenn Sie unsere Facebook-Seite besuchen und Ihr Browser die Speicherung von Cookies erlaubt, speichert Meta Platforms Ireland Informationen in Form von kleinen Textdateien im Speicher Ihres Browsers (im Folgenden "Cookies”) und kann auf diese Informationen beim Besuch der Plattform Facebook oder einer Webseite, die Facebook-Technologien einbindet, zugreifen. Nähere Informationen zum Zweck der eingesetzten Cookies, zur Einbindung dieser Cookies durch andere Webseiten und zu Ihren diesbezüglichen Kontrollmöglichkeiten finden Sie in der [Cookie-Richtlinie](https://www.facebook.com/policy/cookies/printable) von Facebook Ireland. Eine detaillierte Übersicht der durch Meta Platforms Ireland verwendeten Cookies ist in der verlinkten Cookie-Richtlinie durch einen Klick auf den dortigen Link "Cookies” unter dem Punkt "Warum verwenden wir Cookies?” verfügbar.
 
-Wir möchten sie darauf hinweisen, dass Meta Platforms Ireland mittels der verwendeten Cookies dazu in der Lage ist, Ihr Nutzerverhalten (bei angemeldeten Nutzern geräteübergreifend) auch jenseits der Plattform Facebook auf anderen Webseiten nachzuvollziehen. Dies gilt sowohl für bei der Plattform Facebook registrierte als auch für dort nicht registrierte Personen. Insbesondere werden Informationen über Sie an Meta Platforms Ireland übermittelt, wenn Sie Webseiten besuchen, die einen "Gefällt mir"-Button einbinden.
+Wir möchten Sie darauf hinweisen, dass Meta Platforms Ireland mittels der verwendeten Cookies dazu in der Lage ist, Ihr Nutzerverhalten (bei angemeldeten Nutzern geräteübergreifend) auch jenseits der Plattform Facebook auf anderen Webseiten nachzuvollziehen. Dies gilt sowohl für bei der Plattform Facebook registrierte als auch für dort nicht registrierte Personen. Insbesondere werden Informationen über Sie an Meta Platforms Ireland übermittelt, wenn Sie Webseiten besuchen, die einen "Gefällt mir"-Button einbinden.
 
 
 Wir möchten Sie zudem darauf hinweisen, dass wir keinen Einfluss auf die im Zusammenhang mit Cookies erfolgte Datenverarbeitung durch Meta Platforms Ireland haben. Der Besuch unserer Facebook-Seite ist auch möglich, wenn Sie Ihren Browser so konfigurieren, dass keine Cookies von der Plattform Facebook gespeichert werden. Informationen darüber, wie Sie die Einstellungen für Cookies in Ihrem Browser anpassen, finden Sie üblicherweise im Hilfe-Bereich des von Ihnen genutzten Browsers.
@@ -75,12 +70,12 @@ Meta Platforms Ireland hat uns gegenüber versichert, dass für die von uns genu
 
 (2) Zusätzlich zu den von Ihnen übermittelten Inhalten sind uns abhängig von Ihren Privatsphäre-Einstellungen Informationen zu Ihrem Profil, Ihren Gefällt-mir-Angaben und Ihren Beiträgen zugänglich. Wie Sie Ihre Privatsphäre-Einstellungen ändern können, erfahren Sie in diesem [Hilfe-Artikel](https://www.facebook.com/help/1297502253597210/?helpref=hc_fnav).
 
-(3) Die Verarbeitung Ihrer Daten bei Kontaktaufnahme oder Interaktion mit unserer Seite oder ihren Inhalten erfolgt durch uns auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO an Durchführung der mit Ihnen gewünschten Kommunikation.
+(3) Die Verarbeitung Ihrer Daten bei Kontaktaufnahme oder Interaktion mit unserer Seite oder ihren Inhalten erfolgt durch uns auf Grundlage unseres berechtigten Interesses gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO an der Durchführung der mit Ihnen gewünschten Kommunikation.
 
-(4) Wir verarbeiten die in diesem Zusammenhang von Ihnen angegeben und für uns ggf. zugänglichen Daten zur Wahrung unserer im Rahmen einer Interessenabwägung überwiegenden berechtigten Interessen an der Kommunikation mit Kunden und Interessenten. Unser Interesse liegt darin, Ihnen eine Plattform zu bieten, auf der wir Ihnen aktuelle Informationen anzeigen und mit Hilfe derer Sie Ihr Anliegen an uns richten können und wir Ihrem Anliegen schnellstmöglich nachkommen können.
-Hierin liegen auch unsere berechtigten Interessen an der Datenverarbeitung nach § 6 Abs. 1 S. 1 lit. f DSGVO.
+(4) Wir verarbeiten die in diesem Zusammenhang von Ihnen angegebenen und für uns ggf. zugänglichen Daten zur Wahrung unserer im Rahmen einer Interessenabwägung überwiegenden berechtigten Interessen an der Kommunikation mit Kunden und Interessenten. Unser Interesse liegt darin, Ihnen eine Plattform zu bieten, auf der wir Ihnen aktuelle Informationen anzeigen und mit Hilfe derer Sie Ihr Anliegen an uns richten können und wir Ihrem Anliegen schnellstmöglich nachkommen können.
+Hierin liegen auch unsere berechtigten Interessen an der Datenverarbeitung nach Art. 6 Abs. 1 lit. f DSGVO.
 
-(2) Ihre Daten werden, soweit es uns möglich ist, bei Einstellung des Betriebs unserer Facebook-Seite gelöscht. Sofern eine weitergehende Speicherung dieser Daten durch Meta Platforms Ireland erfolgt, richtet diese sich ausschließlich nach den Bestimmungen in deren Datenrichtlinie und Nutzungsbedingungen.
+(5) Ihre Daten werden, soweit es uns möglich ist, bei Einstellung des Betriebs unserer Facebook-Seite gelöscht. Sofern eine weitergehende Speicherung dieser Daten durch Meta Platforms Ireland erfolgt, richtet diese sich ausschließlich nach den Bestimmungen in deren Datenrichtlinie und Nutzungsbedingungen.
 
 ## 4. Datenverarbeitung zu statistischen Zwecken
 
@@ -99,9 +94,9 @@ Meta Platforms Ireland erklärt in den [Informationen zu Seiten-Insights-Daten](
 ### 4.3 Rechtsgrundlage der Datenverarbeitung
 
 
-Wir gehen davon aus, dass die Verarbeitung von "Insights-Daten” durch Meta Platforms Ireland zur Bereitstellung der von uns genutzten Seitenstatistiken ("Seiten-Insights”) im Rahmen der Erfüllung vertraglicher Dienste im Zusammenhang mit dem zwischen Meta Platforms Ireland und der betroffenen Person geschlossenen Vertrag über die [Nutzungsbedingungen](https://www.facebook.com/legal/terms/update) der Plattform Facebook gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO erfolgt. Im Falle von beschränkt geschäftsfähigen Personen gehen wir davon aus, dass Meta Platforms Ireland die Verarbeitung zur Wahrung eines berechtigten Interesses gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO durchführen darf. Eine Übersicht der von Meta Platforms Ireland in diesem Zusammenhang angeführten Interessen und weitere Informationen zu deren Rechtsgrundlagen finden sie [hier](https://www.facebook.com/about/privacy/legal_bases).
+Wir gehen davon aus, dass die Verarbeitung von "Insights-Daten” durch Meta Platforms Ireland zur Bereitstellung der von uns genutzten Seitenstatistiken ("Seiten-Insights”) im Rahmen der Erfüllung vertraglicher Dienste im Zusammenhang mit dem zwischen Meta Platforms Ireland und der betroffenen Person geschlossenen Vertrag über die [Nutzungsbedingungen](https://www.facebook.com/legal/terms/update) der Plattform Facebook gemäß Art. 6 Abs. 1 S. 1 lit. b DSGVO erfolgt. Im Falle von beschränkt geschäftsfähigen Personen gehen wir davon aus, dass Meta Platforms Ireland die Verarbeitung zur Wahrung eines berechtigten Interesses gemäß Art. 6 Abs. 1 S. 1 lit. f DSGVO durchführen darf. Eine Übersicht der von Meta Platforms Ireland in diesem Zusammenhang angeführten Interessen und weitere Informationen zu deren Rechtsgrundlagen finden Sie [hier](https://www.facebook.com/about/privacy/legal_bases).
 
-Wir verarbeiten die uns bereitgestellten Seitenstatistiken zur Wahrung unserer im Rahmen einer Interessenabwägung überwiegenden berechtigten Interessen an der Verbesserung unseres Informationsangebots gemäß § 6 Abs. 1 S. 1 lit. f DSGVO. Es werden von uns nur Daten von Personen verarbeitet, die den Nutzungsbedingungen und der Datenrichtlinie von Meta Platforms Ireland im Rahmen Ihrer Registrierung bei der Plattform Facebook zugestimmt haben. In der Datenrichtlinie von Meta Platforms Ireland wird auf die Absicht dieser Verarbeitung unter dem Punkt "Partner, die unsere Analysedienste nutzen” hingewiesen.
+Wir verarbeiten die uns bereitgestellten Seitenstatistiken zur Wahrung unserer im Rahmen einer Interessenabwägung überwiegenden berechtigten Interessen an der Verbesserung unseres Informationsangebots gemäß Art. 6 Abs. 1 lit. f DSGVO. Es werden von uns nur Daten von Personen verarbeitet, die den Nutzungsbedingungen und der Datenrichtlinie von Meta Platforms Ireland im Rahmen ihrer Registrierung bei der Plattform Facebook zugestimmt haben. In der Datenrichtlinie von Meta Platforms Ireland wird auf die Absicht dieser Verarbeitung unter dem Punkt "Partner, die unsere Analysedienste nutzen” hingewiesen.
 
 
 ### 4.4 Zweck der Datenverarbeitung
@@ -112,25 +107,25 @@ Der Zweck der Verarbeitung der vorgenannten "Insights-Daten” ist die Erstellun
 ### 4.5 Dauer der Datenspeicherung
 
 
-Die von uns genutzten Seitenstatistiken umfassen Insights-Daten für einen Zeitraum von zwei Jahren und werden von von uns danach nicht weiterverarbeitet. Sofern eine weitergehende Speicherung dieser Daten durch Meta Platforms Ireland erfolgt, richtet diese sich ausschließlich nach den Bestimmungen in deren Datenrichtlinie und Nutzungsbedingungen.
+Die von uns genutzten Seitenstatistiken umfassen Insights-Daten für einen Zeitraum von zwei Jahren und werden von uns danach nicht weiterverarbeitet. Sofern eine weitergehende Speicherung dieser Daten durch Meta Platforms Ireland erfolgt, richtet diese sich ausschließlich nach den Bestimmungen in deren Datenrichtlinie und Nutzungsbedingungen.
 
 ## 5.  Ihre Rechte als betroffene Person
 
 ### 5.1  Auskunftsrecht
 
-Sie haben das Recht, von uns jederzeit auf Antrag eine Auskunft über die von uns verarbeiteten, Sie betreffenden personenbezogenen Daten im Umfang des Art. 15 DSGVO zu erhalten. Hierzu können Sie einen Antrag postalisch oder per E-Mail an die oben angegebene Adressen stellen.
+Sie haben das Recht, von uns jederzeit auf Antrag eine Auskunft über die von uns verarbeiteten, Sie betreffenden personenbezogenen Daten im Umfang des Art. 15 DSGVO zu erhalten. Hierzu können Sie einen Antrag postalisch oder per E-Mail an die oben angegebenen Adressen stellen.
 
 ### 5.2  Recht zur Berichtigung unrichtiger Daten
 
-Sie haben das Recht, von uns die unverzügliche Berichtigung der Sie betreffenden personenbezogenen Daten zu verlangen, sofern diese unrichtig sein sollten. Wenden Sie sich hierfür bitte an die unten angegebenen Kontaktadressen.
+Sie haben das Recht, von uns die unverzügliche Berichtigung der Sie betreffenden personenbezogenen Daten zu verlangen, sofern diese unrichtig sein sollten. Wenden Sie sich hierfür bitte an die in Abschnitt 2 angegebenen Kontaktadressen.
 
 ### 5.3  Recht auf Löschung
 
-Sie haben das Recht, unter den in Art. 17 DSGVO beschriebenen Voraussetzungen von uns die Löschung der Sie betreffenden personenbezogenen Daten zu verlangen. Diese Voraussetzungen sehen insbesondere ein Löschungsrecht vor, wenn die personenbezogenen Daten für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig sind, sowie in Fällen der unrechtmäßigen Verarbeitung, des Vorliegens eines Widerspruchs oder des Bestehens einer Löschungspflicht nach Unionsrecht oder dem Recht des Mitgliedstaates, dem wir unterliegen. Zum Zeitraum der Datenspeicherung siehe im Übrigen Ziffer 5 dieser Datenschutzerklärung. Um Ihr Recht auf Löschung geltend zu machen, wenden Sie sich bitte an die unten angegebenen Kontaktadressen.
+Sie haben das Recht, unter den in Art. 17 DSGVO beschriebenen Voraussetzungen von uns die Löschung der Sie betreffenden personenbezogenen Daten zu verlangen. Diese Voraussetzungen sehen insbesondere ein Löschungsrecht vor, wenn die personenbezogenen Daten für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig sind, sowie in Fällen der unrechtmäßigen Verarbeitung, des Vorliegens eines Widerspruchs oder des Bestehens einer Löschungspflicht nach Unionsrecht oder dem Recht des Mitgliedstaates, dem wir unterliegen. Angaben zur Speicherung und Löschung finden Sie in den Abschnitten 3.3 und 4.5. Um Ihr Recht auf Löschung geltend zu machen, wenden Sie sich bitte an die in Abschnitt 2 angegebenen Kontaktadressen.
 
 ### 5.4  Recht auf Einschränkung der Verarbeitung
 
-Sie haben das Recht, von uns die Einschränkung der Verarbeitung nach Maßgabe des Art. 18 DSGVO zu verlangen. Dieses Recht besteht insbesondere, wenn die Richtigkeit der personenbezogenen Daten zwischen dem Nutzer und uns umstritten ist, für die Dauer, welche die Überprüfung der Richtigkeit erfordert, sowie im Fall, dass der Nutzer bei einem bestehenden Recht auf Löschung anstelle der Löschung eine eingeschränkte Verarbeitung verlangt; ferner für den Fall, dass die Daten für die von uns verfolgten Zwecke nicht länger erforderlich sind, der Nutzer sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigt sowie, wenn die erfolgreiche Ausübung eines Widerspruchs zwischen uns und dem Nutzer noch umstritten ist. Um Ihr Recht auf Einschränkung der Verarbeitung geltend zu machen, wenden Sie sich bitte an die unten angegebenen Kontaktadressen.
+Sie haben das Recht, von uns die Einschränkung der Verarbeitung nach Maßgabe des Art. 18 DSGVO zu verlangen. Dieses Recht besteht insbesondere, wenn die Richtigkeit der personenbezogenen Daten zwischen dem Nutzer und uns umstritten ist, für die Dauer, welche die Überprüfung der Richtigkeit erfordert, sowie im Fall, dass der Nutzer bei einem bestehenden Recht auf Löschung anstelle der Löschung eine eingeschränkte Verarbeitung verlangt; ferner für den Fall, dass die Daten für die von uns verfolgten Zwecke nicht länger erforderlich sind, der Nutzer sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigt sowie, wenn die erfolgreiche Ausübung eines Widerspruchs zwischen uns und dem Nutzer noch umstritten ist. Um Ihr Recht auf Einschränkung der Verarbeitung geltend zu machen, wenden Sie sich bitte an die in Abschnitt 2 angegebenen Kontaktadressen.
 
 ### 5.5  Recht auf Datenübertragbarkeit
 
@@ -146,7 +141,7 @@ Sie haben ferner das Recht, sich bei Beschwerden an die zuständige Aufsichtsbeh
 
 ## 6.  Verpflichtung zur Bereitstellung der Daten
 
-Die Bereitstellung Ihrer Daten ist uns gegenüber nicht verpflichtend. Nur im Rahmen des Abschluss eines Vertrages müssen Sie bestimmte Daten angeben (z.B. Ihre E-Mail-Adresse oder Ihren Namen). Ohne diese Daten werden wir sonst nicht in der Lage sein, den Vertrag mit Ihnen zu schließen oder auszuführen.
+Die Bereitstellung Ihrer Daten ist uns gegenüber nicht verpflichtend. Nur im Rahmen des Abschlusses eines Vertrages müssen Sie bestimmte Daten angeben (z.B. Ihre E-Mail-Adresse oder Ihren Namen). Ohne diese Daten werden wir sonst nicht in der Lage sein, den Vertrag mit Ihnen zu schließen oder auszuführen.
 
 
 Meta Platforms Ireland macht Ihnen eventuell andere Vorgaben. Weitere Informationen finden Sie hier

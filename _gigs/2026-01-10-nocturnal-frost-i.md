@@ -1,7 +1,7 @@
 ---
 collection: gigs
 layout: gig
-title: CANCELLED Nocturnal Frost Vol. 1, Bahnhof Wolbeck, Munster
+title: CANCELLED Nocturnal Frost Vol. 1, Bahnhof Wolbeck, Münster
 gig_date: 2026-01-10
 image: :SITE_URL:/img/flyers/nocturnal-frost-vol-1.png
 bands:
@@ -12,7 +12,7 @@ bands:
 
 2026 startet laut und episch! 🤘❄️⚔️
 
-Metal im [@bahnhofwolbeck](https://instagram.com/bahnhofwolbeck) am Sa. 10.01.2026 um 18:00 Uhr. Präsentiert von EPIC STEEL und support by [@schwermetallisch_reviews](https://instagram.com/schwermetallisch_reviews) !!!
+Metal im [@bahnhofwolbeck](https://instagram.com/bahnhofwolbeck) am Sa. 10.01.2026 um 18:00 Uhr. Präsentiert von EPIC STEEL mit Unterstützung von [@schwermetallisch_reviews](https://instagram.com/schwermetallisch_reviews) !!!
 
 Mit dabei:
 

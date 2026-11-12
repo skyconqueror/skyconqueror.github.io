@@ -12,7 +12,7 @@ bands:
 ---
 
 at  
-Yellowstome Bergkamen  
+Yellowstone Bergkamen  
 Preinstraße 14  
 59192 Bergkamen
 

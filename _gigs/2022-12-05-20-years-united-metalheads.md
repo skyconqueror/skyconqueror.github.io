@@ -20,7 +20,7 @@ Reitknechtstr. 6 \
 München \
 Germany
 
-Presale €22,-, at venue €25,- . \
+Tickets: €22 in advance, €25 at the door. \
 Presale only at https://unitedmetalheadz-muc.de/
 
 -> [Facebook Event](https://www.facebook.com/events/836906547560329)

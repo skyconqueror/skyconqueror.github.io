@@ -12,7 +12,7 @@ with
 * [Sacred Steel](http://www.sacredsteel.eu) (Power Metal)
 * Wulfpäck (Thrash Metal)
 * [Red To Grey](http://www.redtogrey.de) (20 years of Thrash Metal)
-* [Demons Scream](https://de-de.facebook.com/demonsdreammetal/) (Heavy Metal)
+* [Demons Dream](https://de-de.facebook.com/demonsdreammetal/) (Heavy Metal)
 
 at  
 [BORN TO ROCK](https://www.borntorockmunich.de/)  

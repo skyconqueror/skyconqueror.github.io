@@ -7,6 +7,7 @@ meta: live gigs loud playing concerts in concert
 <div class="row">
     <div class="columns small-12 medium-12 large-12">
         <h1>LIVE</h1>
+        <p>Past entries are archived announcements and may retain future-tense wording from when they were published.</p>
         <h4><a href="#index">Stats</a></h4>
     </div>
 </div>
@@ -26,7 +27,7 @@ meta: live gigs loud playing concerts in concert
         <h4>{{ gig.title }}</h4>
         {{ gig.content }}
         {% if gig.bands %}
-        Line Up:
+        Line-up:
         <ul>
             {% for band in gig.bands %}
             <li><a href="https://www.google.com/search?q=&quot;{{ band }}&quot;+band">{{ band }}</a></li>
@@ -57,7 +58,8 @@ meta: live gigs loud playing concerts in concert
 
 <div class="row">
     <div id="index" class="columns small-12 medium-12 large-12">
-        <h3>We performed on {{ sorted.size }} staged and shared them with {{ bands.size }} bands:</h3>
+        <h3>This archive lists {{ sorted.size }} events and {{ bands.size }} band names.</h3>
+        <p>The listings include upcoming and cancelled shows.</p>
     </div>
     <div id="bands" class="columns small-12 medium-12 large-12">
         <h3>Bands</h3>

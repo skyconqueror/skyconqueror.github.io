@@ -8,14 +8,14 @@ featured: true
 bands:
 - Tygers of Pan Tang
 - Tytan
-- Kev Riddle's Baphomet
+- Kev Riddles' Baphomet
 - Bunker 66
 - Grindpad
 ---
 
 Am 05.10.24 findet im Lükaz das Spirit of Metal statt. Das Indoor Metal Festival des HMFC Metalheads e. V. geht in die siebte Runde. Nach sechs erfolgreichen Jahren in Hamburg wird das Spirit of Metal 2024 in Kooperation mit dem Lükaz in Lünen stattfinden.
 
-Eintritt ab 16 Jahre
+Eintritt ab 16 Jahren
 
 Einlass: 16.00 Uhr, Beginn: 17.00 Uhr
 VVK: 34,50 €, AK 39,50 €

@@ -10,7 +10,7 @@ bands:
 - Red To Grey
 ---
 
-Es ist wieder so weit: Die Verstärker werden aufgedreht! Zusammen mit unseren Freunden von Skyconqueror und Redtogrey und Invictus bringen wir die Bühne zum Glühen. Das dürft ihr nicht verpassen!🤘
+Beim Nighttrain Massacre 4 teilen wir uns die Bühne mit Red To Grey und Invictus.
 ([Insta-Source](https://www.instagram.com/p/DX7MAHvDaEe/))
 
 * [@invictus_metal_official](https://www.instagram.com/invictus_metal_official/)
